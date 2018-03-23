@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Steppenwolf</string>
+    <string name="person_prompt">Person auswählen</string>
+
+    <string name="main_title">Hauptmenü</string>
+    <string name="title_activity_personen">personen</string>
+
+    <string-array name="erzaehltechnik_headlines">
+        <item>Titel 1</item>
+        <item>Titel 2</item>
+        <item>Titel 3</item>
+    </string-array>
+
+    <string-array name="erzaehltechnik_texts">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
+        <item>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</item>
+        <item>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</item>
+    </string-array>
+
+    <string-array name="aufsatztechnik_headlines">
+        <item>Wichtiges für Aufsätze Allgemein</item>
+        <item>Klare Struktur</item>
+        <item>Einleitung</item>
+        <item>Hauptteil/ Inhaltsangabe</item>
+        <item>Unterpunkte</item>
+        <item>Schluss</item>
+    </string-array>
+
+    <string-array name="aufsatztechnik_texts">
+        <item>  - auf Rechtschreibung achten, d. h. Fehler mit Groß- und Kleinschreibung,
+                Kommasetzung, ungenaues Zitieren, (Fremd-) Wörter im falschen
+                Zusammenhang, falschen oder ungenauen Fachbegriffen oder Begriffe aus dem
+                Text zu tun haben vermeiden.
+                - in der richtigen Zeit und in einem angepassten Stil schreiben
+                - drauf achten, dass der Text mit wichtigen, aussagestarken Informationen und
+                Belegen gefüllt ist
+                - kein Redundanz nicht vom Thema abkommen und anfangen zu schwallen
+                - das inhaltlich Gelernte und Geübte sinnvoll nutzen
+                Kenntnis der Inhalte, Interpretationsansätze der Lektüre, Fähigkeit
+                Argumente zu erörtern
+                - Bezug auf den jeweiligen Unterpunkt
+                - jeder geschriebene Satz in der Deutscharbeit sollte für den zugehörigen
+                Unterpunkt von Bedeutung sein
+                - Auch wenn viele der Meinung sind, auf Deutsch könne man nicht viel lernen,
+                kann man sich auch gut auf eine Deutscharbeit vorbereiten</item>
+        <item>
+            - Grundstruktur = Einleitung, Hauptteil, Unterpunkte, Schluss
+- der Text liest sich besser und fließender wenn er eine formale und inhaltlich
+nachvollziehbare Struktur hat
+- beim Hauptteil muss man einzelne Aufgaben oder Aussagen klar trennen
+Absätze/ Blöcke erhöhen die Übersichtlichkeit
+- !!!Keine Überschriften über den Absätzen!!!
+Tipp: Absätze per Bleistift mit Überschriften versehren, aber vor dem
+Abgeben wegradieren!!
+- nach Möglichkeit mit Übergängen verbinden.
+        </item>
+        <item>
+                - Allgemeine Einleitung zum Werk
+                - Werktitel, Datum, Textgattung, Autor + evtl. Lebensdaten, Thematik,
+                ggf: Epoche, biographische + historische Bezüge, Aktualität/ Bedeutung,
+                evtl. zentrales Zitat (wenn es 100 % zum Thema passt), nennen
+                - durch die allgemeine Wiedergabe der Fakten kommt man in den ersten
+                Schreibschwung
+                - eine auf das Thema bezogene These aufstellen
+                - evtl. Frage oder Nennung des Grundproblems, weckt das Interesse des Lesers
+        </item>
+        <item>
+            - im Präsens schreiben
+            - den Konjunktiv in indirekte Rede setzten
+            - Wesentliche des Inhaltes zusammenfassen
+            - Ausgangssituation schildern
+            - den Inhalt sachlich, nüchtern in Abschnitten wiedergeben
+            - Handlungsablauf muss zeitlich in der korrekten Reihenfolge wiedergegeben
+            werden.
+            - keine Details, die den Text nicht weiterbringen, wiedergeben
+            - das Ende der Erzählung muss wiedergegeben werden wie die Geschichte
+            ausgeht, da es eine Handlung gänzlich abbilden soll
+            - wichtige Fragen auf die Eingegangen werden können/ sollen:
+            1. Wer sind die Hauptpersonen?
+            2. Was sind die wichtigsten Ereignisse?
+            3. Wo spielt sich die Handlung ab?
+            4. Wann finden welche Vorgänge statt?
+            5. Welche Geschehnisse hängen zusammen?
+            6. Wie und was denken die Personen?
+        </item>
+        <item>
+            - auf die gestellten Aufgaben der Arbeit eingehen
+            - Beispiele aus dem Text liefern und damit die Fragen begründen
+            - Erklären warum der Autor oder der Protagonist so handelt wie es die
+            Geschichte besagt
+            - Strukturwörter benutzen: deutlich machen, erklären, kritisieren, bekräftigen,
+            hervorheben, beweisen, veranschaulichen, darstellen, bezweifeln, beharren…
+            - ggf. Stilmittel nennen und deren Aufgabe hervorbringen und erläutern
+            - richtiges Zitieren:
+            1. Direktes Zitat „...“ (Z. …) oder (Z. …f.) Nicht: (Z. …bis …)!
+            2. Indirektes Zitieren … (Vgl. …) oder (Z. …ff.)
+            3. Auslassung im direkten Zitat „…[…]…“ (Z. …)
+            4. Veränderung im direkten Zitat „…[en]…“ (Z. …)
+        </item>
+        <item>
+            - eine Arbeit muss immer vollendet werden
+            - Hauptfazit bzw. Schlussfolgerung ziehen
+            Was wurde bei der Analyse hervorgebracht? Welches Ergebnis liefert sie?
+            - evtl. die Frage oder das gestellte Problem aus der Einleitung wieder aufgreifen
+            und als entweder widerlegt oder bestätigt bewerten
+            - ggf. eine kurze, eigene Meinung zum Text schreiben
+            (im Vorfeld informieren ob es angemessen und erlaubt ist)
+        </item>
+    </string-array>
+
+
+</resources>
