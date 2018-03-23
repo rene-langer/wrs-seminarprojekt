@@ -45,7 +45,7 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
 
         Button temp;
 
-        temp = (Button) findViewById(R.id.erzaehltechnik);
+        temp = findViewById(R.id.erzaehltechnik);
         temp.setOnClickListener(this);
 
         temp = (Button) findViewById(R.id.struktur_aufbau);
@@ -92,7 +92,8 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
 
                 break;
             case R.id.inhalt:
-
+                Intent inhalt = new Intent(getApplicationContext(), inhalt.class);
+                startActivity(inhalt);
                 break;
             case R.id.biographie:
 
