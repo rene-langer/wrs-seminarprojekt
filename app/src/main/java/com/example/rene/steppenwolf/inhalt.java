@@ -55,6 +55,7 @@ public class inhalt extends AppCompatActivity {
             for(int i = 0; i < texts.size(); i++){
                 childs.put(headlines.get(i), new ArrayList<>(Arrays.asList(texts.get(i))));
             }
+
         }else{
             Toast.makeText(getApplicationContext(), "Dimensions do not match.", Toast.LENGTH_LONG).show();
         }
