@@ -22,7 +22,7 @@ public class inhalt extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_aufsatztechnik);
+        setContentView(R.layout.activity_listdata);
 
         setToolbar();
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {

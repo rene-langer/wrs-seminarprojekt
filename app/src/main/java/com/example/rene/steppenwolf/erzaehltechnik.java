@@ -23,7 +23,7 @@ public class erzaehltechnik extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_erzaehltechnik);
+        setContentView(R.layout.activity_listdata);
 
         setToolbar();
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
