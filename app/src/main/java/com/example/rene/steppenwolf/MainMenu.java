@@ -99,10 +99,12 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
 
                 break;
             case R.id.aufsatztechnik:
-                Intent aufs = new Intent(getApplicationContext(), aufsatztechnik.class);
-                startActivity(aufs);
+                Intent aufsatz = new Intent(getApplicationContext(), aufsatztechnik.class);
+                startActivity(aufsatz);
                 break;
             case R.id.figuren:
+                Intent figs = new Intent(getApplicationContext(), figures.class);
+                startActivity(figs);
 
                 break;
         }

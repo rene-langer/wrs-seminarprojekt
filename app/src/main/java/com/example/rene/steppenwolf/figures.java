@@ -11,7 +11,8 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class inhalt extends AppCompatActivity {
+
+public class figures extends AppCompatActivity {
     android.support.v7.widget.Toolbar toolbar;
 
     ExpandableListAdapter adapter;
@@ -40,26 +41,26 @@ public class inhalt extends AppCompatActivity {
         expListView.setAdapter(adapter);
     }
 
-    private void prepare(){
-        headlines = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.inhalt_headlines)));
-        ArrayList<String> texts  = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.inhalt_texts)));
+    private void prepare() {
+        headlines = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.figures_headlines)));
+        ArrayList<String> texts = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.figures_texts)));
 
         childs = new HashMap<>();
 
 
-        if(texts.size() == headlines.size()){
-            for(int i = 0; i < texts.size(); i++){
+        if (texts.size() == headlines.size()) {
+            for (int i = 0; i < texts.size(); i++) {
                 childs.put(headlines.get(i), new ArrayList<>(Arrays.asList(texts.get(i))));
             }
-
-        }else{
+        } else {
             Toast.makeText(getApplicationContext(), "Dimensions do not match.", Toast.LENGTH_LONG).show();
         }
     }
 
-    private void setToolbar(){
-        toolbar = findViewById(R.id.toolbar);
-        toolbar.setTitle("Inhalt");
+
+    private void setToolbar() {
+        toolbar = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitle("Figuren");
 
         setSupportActionBar(toolbar);
         toolbar.setNavigationIcon(R.drawable.ic_arrow_back_black_18dp);
