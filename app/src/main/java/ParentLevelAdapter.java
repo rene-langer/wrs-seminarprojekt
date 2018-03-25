@@ -16,6 +16,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * https://github.com/ngocchung/ThreeLevelExpListView
+ */
 
 public class ParentLevelAdapter extends BaseExpandableListAdapter {
     private final Context mContext;
@@ -23,6 +26,17 @@ public class ParentLevelAdapter extends BaseExpandableListAdapter {
     private final Map<String, List<String>> mListData_SecondLevel_Map;
     private final Map<String, List<String>> mListData_ThirdLevel_Map;
 
+    public ParentLevelAdapter(Context context,
+                              List<String> ListDataHeader,
+                              Map<String, List<String>> SecondLevel,
+                              Map<String, List<String>> ThirdLevel) {
+        this.mContext = context;
+        this.mListDataHeader = ListDataHeader;
+        this.mListData_SecondLevel_Map = SecondLevel;
+        this.mListData_ThirdLevel_Map = ThirdLevel;
+    }
+
+    // TODO: May be obsolete, cause of hardcoded content
     public ParentLevelAdapter(Context mContext, List<String> mListDataHeader) {
         this.mContext = mContext;
         this.mListDataHeader = new ArrayList<>();
@@ -36,15 +50,15 @@ public class ParentLevelAdapter extends BaseExpandableListAdapter {
             String content = mListDataHeader.get(i);
             switch (content) {
                 case "Level 1.1":
-                    mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_level_one_one_child);
+                    //mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_level_one_one_child);
                     break;
                 case "Level 1.2":
-                    mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_level_one_two_child);
+                    //mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_level_one_two_child);
                     break;
                 default:
-                    mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_other_child);
+                    //mItemHeaders = mContext.getResources().getStringArray(R.array.items_array_expandable_other_child);
             }
-            mListData_SecondLevel_Map.put(mListDataHeader.get(i), Arrays.asList(mItemHeaders));
+            //mListData_SecondLevel_Map.put(mListDataHeader.get(i), Arrays.asList(mItemHeaders));
         }
         // THIRD LEVEL
         String[] mItemChildOfChild;
@@ -57,9 +71,9 @@ public class ParentLevelAdapter extends BaseExpandableListAdapter {
                 List<String> stringList = new ArrayList<>();
                 Collections.addAll(stringList, (String[]) ((List) object).toArray());
                 for (int i = 0; i < stringList.size(); i++) {
-                    mItemChildOfChild = mContext.getResources().getStringArray(R.array.items_array_expandable_level_three);
-                    listChild = Arrays.asList(mItemChildOfChild);
-                    mListData_ThirdLevel_Map.put(stringList.get(i), listChild);
+                    //mItemChildOfChild = mContext.getResources().getStringArray(R.array.items_array_expandable_level_three);
+                    //listChild = Arrays.asList(mItemChildOfChild);
+                    //mListData_ThirdLevel_Map.put(stringList.get(i), listChild);
                 }
             }
         }
