@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by rene on 25.03.18.
+ * https://github.com/ngocchung/ThreeLevelExpListView
  */
 
 public class SecondLevelAdapter extends BaseExpandableListAdapter {

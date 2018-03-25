@@ -11,6 +11,9 @@ import android.widget.TextView;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * https://github.com/ngocchung/ThreeLevelExpListView
+ */
 
 public class ExpandableListAdapter extends BaseExpandableListAdapter {
 

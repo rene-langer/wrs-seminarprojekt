@@ -2,7 +2,7 @@ import android.content.Context;
 import android.widget.ExpandableListView;
 
 /**
- * Created by rene on 25.03.18.
+ * https://github.com/ngocchung/ThreeLevelExpListView
  */
 
 public class CustomExpListView extends ExpandableListView {
