@@ -5,114 +5,6 @@
     <string name="main_title">Hauptmenü</string>
     <string name="title_activity_personen">personen</string>
 
-    <string-array name="erzaehltechnik_headlines">
-        <item>Titel 1</item>
-        <item>Titel 2</item>
-        <item>Titel 3</item>
-    </string-array>
-
-    <string-array name="erzaehltechnik_texts">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</item>
-        <item>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</item>
-        <item>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</item>
-    </string-array>
-
-
-    <string-array name="aufsatztechnik_headlines">
-        <item>Wichtiges für Aufsätze Allgemein</item>
-        <item>Klare Struktur</item>
-        <item>Einleitung</item>
-        <item>Hauptteil/ Inhaltsangabe</item>
-        <item>Unterpunkte</item>
-        <item>Schluss</item>
-    </string-array>
-
-    <string-array name="aufsatztechnik_texts">
-        <item>  - auf Rechtschreibung achten, d. h. Fehler mit Groß- und Kleinschreibung,
-                Kommasetzung, ungenaues Zitieren, (Fremd-) Wörter im falschen
-                Zusammenhang, falschen oder ungenauen Fachbegriffen oder Begriffe aus dem
-                Text zu tun haben vermeiden.\n
-
-                - in der richtigen Zeit und in einem angepassten Stil schreiben\n
-
-                - drauf achten, dass der Text mit wichtigen, aussagestarken Informationen und
-                Belegen gefüllt ist\n
-
-                - kein Redundanz nicht vom Thema abkommen und anfangen zu schwallen\n
-
-                - das inhaltlich Gelernte und Geübte sinnvoll nutzen
-                Kenntnis der Inhalte, Interpretationsansätze der Lektüre, Fähigkeit
-                Argumente zu erörtern
-                - Bezug auf den jeweiligen Unterpunkt
-                - jeder geschriebene Satz in der Deutscharbeit sollte für den zugehörigen
-                Unterpunkt von Bedeutung sein
-                - Auch wenn viele der Meinung sind, auf Deutsch könne man nicht viel lernen,
-                kann man sich auch gut auf eine Deutscharbeit vorbereiten</item>
-        <item>
-            - Grundstruktur = Einleitung, Hauptteil, Unterpunkte, Schluss
-            - der Text liest sich besser und fließender wenn er eine formale und inhaltlich
-            nachvollziehbare Struktur hat
-            - beim Hauptteil muss man einzelne Aufgaben oder Aussagen klar trennen
-            Absätze/ Blöcke erhöhen die Übersichtlichkeit
-            - !!!Keine Überschriften über den Absätzen!!!
-            Tipp: Absätze per Bleistift mit Überschriften versehren, aber vor dem
-            Abgeben wegradieren!!
-            - nach Möglichkeit mit Übergängen verbinden.
-        </item>
-        <item>
-                - Allgemeine Einleitung zum Werk
-                - Werktitel, Datum, Textgattung, Autor + evtl. Lebensdaten, Thematik,
-                ggf: Epoche, biographische + historische Bezüge, Aktualität/ Bedeutung,
-                evtl. zentrales Zitat (wenn es 100 % zum Thema passt), nennen
-                - durch die allgemeine Wiedergabe der Fakten kommt man in den ersten
-                Schreibschwung
-                - eine auf das Thema bezogene These aufstellen
-                - evtl. Frage oder Nennung des Grundproblems, weckt das Interesse des Lesers
-        </item>
-        <item>
-            - im Präsens schreiben
-            - den Konjunktiv in indirekte Rede setzten
-            - Wesentliche des Inhaltes zusammenfassen
-            - Ausgangssituation schildern
-            - den Inhalt sachlich, nüchtern in Abschnitten wiedergeben
-            - Handlungsablauf muss zeitlich in der korrekten Reihenfolge wiedergegeben
-            werden.
-            - keine Details, die den Text nicht weiterbringen, wiedergeben
-            - das Ende der Erzählung muss wiedergegeben werden wie die Geschichte
-            ausgeht, da es eine Handlung gänzlich abbilden soll
-            - wichtige Fragen auf die Eingegangen werden können/ sollen:
-            1. Wer sind die Hauptpersonen?
-            2. Was sind die wichtigsten Ereignisse?
-            3. Wo spielt sich die Handlung ab?
-            4. Wann finden welche Vorgänge statt?
-            5. Welche Geschehnisse hängen zusammen?
-            6. Wie und was denken die Personen?
-        </item>
-        <item>
-            - auf die gestellten Aufgaben der Arbeit eingehen
-            - Beispiele aus dem Text liefern und damit die Fragen begründen
-            - Erklären warum der Autor oder der Protagonist so handelt wie es die
-            Geschichte besagt
-            - Strukturwörter benutzen: deutlich machen, erklären, kritisieren, bekräftigen,
-            hervorheben, beweisen, veranschaulichen, darstellen, bezweifeln, beharren…
-            - ggf. Stilmittel nennen und deren Aufgabe hervorbringen und erläutern
-            - richtiges Zitieren:
-            1. Direktes Zitat „...“ (Z. …) oder (Z. …f.) Nicht: (Z. …bis …)!
-            2. Indirektes Zitieren … (Vgl. …) oder (Z. …ff.)
-            3. Auslassung im direkten Zitat „…[…]…“ (Z. …)
-            4. Veränderung im direkten Zitat „…[en]…“ (Z. …)
-        </item>
-        <item>
-            - eine Arbeit muss immer vollendet werden
-            - Hauptfazit bzw. Schlussfolgerung ziehen
-            Was wurde bei der Analyse hervorgebracht? Welches Ergebnis liefert sie?
-            - evtl. die Frage oder das gestellte Problem aus der Einleitung wieder aufgreifen
-            und als entweder widerlegt oder bestätigt bewerten
-            - ggf. eine kurze, eigene Meinung zum Text schreiben
-            (im Vorfeld informieren ob es angemessen und erlaubt ist)
-        </item>
-    </string-array>
-
 
     <string-array name="inhalt_headlines">
         <item>Der Tractat</item>
@@ -209,11 +101,73 @@
 
 
     <string-array name="figures_headlines">
+        <item>Konstellation</item>
         <item>Maria</item>
-
+        <item>Harry Haller</item>
     </string-array>
 
     <string-array name="figures_texts">
+        <item>
+            Vermieterin:\n
+            - Offenes Verhältnis zwischen Haller und ihr\n
+            - Haller hat sie weder belästigt noch geschädigt (vgl. S.12, Z. 26)\n
+            - Sie und ihr Neffe denken immer noch heute gerne an ihn (vgl. S.12, Z.27)\n
+            - Gegenseitige Beziehung\n
+            \n
+            Hermine:\n
+            - Prostituierte, die Haller im „Schwarzen Adler“ kennenlernt (vgl. S.111, Z.32)\n
+            - Weibliches Spiegelbild Hallers; dieses Spiegelbild offenbart ihm verdrängte Aspekte\n
+            seiner Persönlichkeit
+            - Bringt ihm das Tanzen, Lachen und Leben bei (vgl. S.165, Z.29ff.)\n
+            - Hilft ihm aus seiner Ich-Krise herauszukommen, ist eine Leidensgenossin für ihn (vgl.
+            S.140, Z.24ff.)\n
+            - Gegenseitige Beziehung\n\n
+            Maria:
+             Freundin von Hermine
+             Prostituierte wie Hermine
+             Haller lebt mit ihr seine Sexualität aus (vgl. S.178, Z.30f.)
+             Sie bringt ihm bei, mit den normalen Problemen des Lebens zurechtzukommen (vgl.
+            S.177, Z.22 ff.)
+             Sie ist eine Begleitfigur für Hallers Persönlichkeitserweiterung (vgl. S.179, Z.21)
+             Sie bereitet ihn auf das magische Theater vor
+             Gegenseitige Beziehung
+            Pablo:
+             Haller lernt ihn über Hermine kennen
+             Zunächst hat Haller eine Abneigung ihm gegenüber, da er Jazz-Musiker ist und Haller
+            anfangs eine Abneigung gegen Jazzmusik verspürt
+             Pablo zeigt ihm das magische Theater, wo Haller das Lachen lernen soll (Schule des
+            Humors, vgl. S.227, Z.13)
+             Unter Einfluss von Drogen erfährt Haller eine Bewusstseinserweiterung (vgl. S.227
+            Z.9ff.)
+             Gegenseitige Beziehung mit wechselhaftem Verhältnis, ohne Konstanz, da er ihm
+            gegenüber immer wieder eine gewisse Abneigung verspürt (vgl. S.170, Z.22ff.)
+            Der Professor und die Frau des Professors:
+             Der Professor ist ein langjähriger Freund Hallers (vgl. S.98)
+             Haller trifft ihn eines Tages in der Stadt, woraufhin der Professor ihn zu sich einlädt
+            (vgl. S.100 Z.10ff.)
+
+             Der Professor vertritt den Patriotismus sowie das Bürgertum, was Haller abstößt, da
+            er Pazifist ist und einer patriotischen Gesinnung gegenüber kritisch ist. (vgl. S.108,
+            Z.26)
+             Beim Professor lernt Haller dessen Frau kennen (vgl. S.104, Z.29)
+             Haller bemerkt ein Bild von Goethe, an dem er sich stört, da es mit seiner Vorstellung
+            dieses berühmten Dichters nicht übereinstimmt. Er empfindet das Bild als kitschig
+            und als Überhöhung. Dies führt zu einem Streit zwischen den dreien (vgl. S.102)
+             Belastetes Verhältnis mit Ablehnung, Unverständnis und Kritik
+            Neffe:
+             Steht Haller zunächst kritisch gegenüber
+             Entwickelt zunehmend Interesse für Haller
+             Beschreibt nur von außen seine Persönlichkeit
+             Hat einiges an ihm auszusetzen; bspw. dass Haller den Eindruck mache, ihm sei an
+            Ordnung wenig gelegen (vgl. S.12, Z.12)
+             Gegenseitige Beziehung
+            Erika:
+             Erika ist die Frau auf dem Bild in Hallers Wohnung
+             Diese Beziehung bleibt sehr vage
+             Sie tritt nie tatsächlich in Erscheinung, sie wird nur erwähnt
+             Sie ist offenbar seine Freundin
+             Wechselhaftes Verhältnis, ohne Konstanz
+        </item>
         <item>
             Erstes Auftreten im Buch und erster Kontakt mit Harry Haller (S. 157/158)
             Haller sieht Maria im Hotel Balances und ist begeistert von ihrer Schönheit. „Zwei
@@ -330,7 +284,264 @@
             Maria nimmt hin und wieder Drogen von Pablo und verschafft manchmal auch Haller
             etwas von diesen Drogen (vgl. S. 186, Z. 6ff.).
         </item>
+        <item>Erstes Auftreten im Buch
+ Harry Haller wird zu Beginn (vgl. S.7) von dem fiktiven Herausgeber des Buches
+vorgestellt, als sich dieser bei der Tante des Herausgebers untermietet und dort für
+ungefähr „neun oder zehn Monate“ (S.7, Z.20) lebt.
 
+Letztes Auftreten im Buch
+ Am Ende der dargestellten Handlung(vgl. S.278), befindet sich Haller im Magischen
+Theater und begreift den Sinn des Lebens, die „hunderttausend Figuren des
+Lebensspiels“ (S.278, Z.19)
+
+Aussehen (S. 9)
+ aufrechter Gang
+ nicht sehr groß
+ gräuliche, kurze Haare
+ glatt rasiert
+ anständig aber unsorgfältig gekleidet
+ kurz vor seinem 50. Geburtstag
+
+Eigenschaften
+ zieht durchs Land
+= keinen festen Wohnsitz
+ schwierige Vergangenheit
+= seine Frau ist verrückt geworden und hat ihn verlassen
+ Kriegsgegner
+ versteht die Gesellschaft und ihr Verhalten nicht
+= Gesellschaftskritiker
+ Einzelgänger (Steppenwolf)
+= meidet Kontakt zu Menschen
+ bewundert Mozart und Goethe
+ hat eine Geliebte (Erika), die er jedoch nur selten sieht
+ zwei Aspekte seiner Persönlichkeit
+1. Über-Ich – Normen der Gesellschaft
+2. Es – animalische Triebe
+
+Charakterisierung
+ Harry Haller ist ein Mann im Alter von ca. 50 Jahren (vgl. S.7, Z.14 f.). Man weiß nicht
+viel über seine Vergangenheit, geschweige denn über seine Herkunft (vgl. S7, Z.9 ff.).
+Dennoch besitzt er eine starke Persönlichkeit und hinterlässt einen sympathischen
+Eindruck bei Menschen, denen er begegnet (vgl. S.7, Z.11 ff.). Er liebt Bücher (S.7,
+Z.20) und ist ein sehr belesener Mann. Er lebt „sehr still und für sich“ (S.7, Z. 21),
+sodass man kaum bemerkt, dass er existiert. Vielleicht lässt sich damit auch seine
+Ungeselligkeit begründen (vgl. S.7, Z. 26 f.). Denn diese stellt eine prägende
+Charaktereigenschaft des Steppenwolfes dar. Seine fremde, wilde und scheue
+Wesensart (vgl. S.8, Z.2 f.) isoliert ihn von der Außenwelt und führt dazu, dass er wie
+ein fremdes Wesen wirkt (vgl. S.8, Z.3), welches wegen seiner Vereinsamung (vgl. S.8,
+Z.4) gar nicht mehr weiß, wie man am gesellschaftlichen Leben teilnimmt. Womöglich
+hat er diese Wesensart als sein Schicksal angenommen (vgl. S. 8, Z.6) und sieht die
+Vereinsamung als ein Teil seiner Bestimmung und somit auch als Teil seiner Identität.
+Mithilfe der hinterlassenen Aufzeichnungen kann der Leser sich vom Steppenwolf ein
+klareres Bild machen, als dass es durch persönliche Begegnungen möglich wäre (vgl.
+S.8, Z.11 ff.). Seine innere Zerrissenheit wird ebenfalls an seiner Wesensart
+verdeutlicht (vgl. S.7, Z.27 ff.). Dennoch sieht man es Harry Haller nicht an, wie
+kritisch sein innerer Konflikt in Wirklichkeit ist.
+ Zusammenfassend lässt sich sagen, dass Harry Haller einen sehr schwermütigen
+Charakter besitzt. Aufgrund seiner Distanziertheit zur Außenwelt wird seine
+Vereinsamung zu einem festen Bestandteil seiner Persönlichkeit. Dennoch besitzt er
+eine starke Ausstrahlung und macht einen sympathischen Eindruck auf andere
+Menschen. Das ermöglicht ihm, nicht komplett von der Außenwelt abgeschieden zu
+sein.
+
+Hallers ambivalenter Charakter:
+ Harry Haller leidet unter seinen zwei Seelen, die in ihm gegeneinander arbeiten und
+sich anzugreifen. Zum einen die Normen, die ihm von der Gesellschaft
+vorgeschrieben werden, und seine Triebe, die sein tiefstes Verlangen widerspiegeln.
+Diese beiden Persönlichkeiten spiegeln Hallers Zerrissenheit wider:
+ menschliche Natur - wölfische Natur
+ Denker - Dichter
+ Todesangst - Sehnsucht nach Leben
+ ordnungsliebend - Leben in Unordnung
+ zivilisiert - wild
+ Klassik - Jazz
+
+Harry Haller als Steppenwolf
+ Im Werk begegnet man bereits beim Titel dem Begriff „Steppenwolf“, welcher sich
+durch das ganze Buch zieht. Harry Haller ist derjenige, der als der Steppenwolf
+bezeichnet wird (vgl. S.7, Z.3). Den Namen hat er sich selbst gegeben (vgl. S.25, Z.9
+ff.) und es gibt nach Ansichten des fiktiven Herausgebers „kein treffenderes Wort“
+(S.25, Z.16) für ihn. Der Steppenwolf, als Tier, ist kleiner als sein Artgenosse, der
+echte Wolf, und verfügt über ein weniger ausgeprägtes Sozialverhalten. Die Tiere
+durchstreifen ihre großen Reviere als Einzelgänger und bei einer Bedrohung des
+Reviers von einem anderen Steppenwolf kommt es zu Auseinandersetzungen.
+ Wie der Steppenwolf ist auch Haller ein Einzelgänger. Da Harry Haller glaubt, in sich
+einen Steppenwolf erkannt zu haben, nimmt er auch dessen Lebensweise in gewisser
+Weise an. Er beschließt den Tod dem Leben vorzuziehen, hat dennoch Angst, da er
+im Grunde doch noch am Leben hängt. Wie der Steppenwolf schließt sich daher auch
+Haller in Zeiten der Not mit anderen Artgenossen zusammen (vgl. S.109, Z.28 ff.). So
+lässt er Hermine in sein Leben, damit sie ihm beim Überlebenskampf helfen kann
+(vgl. S.112, Z.8 ff.). Mit der Zeit wird sein „Rudel“ größer, als er Pablo (vgl. S.156, Z. 27
+ff.) und Maria (vgl. S.158. Z.4 ff.) kennenlernt und es auch mit ihnen schafft,
+Beziehungen aufzubauen.
+ Die dualistische Grundstruktur des Steppenwolfes:
+Bürger/ Mensch:
+ Sehnt sich nach Geborgenheit und Symmetrie im Leben
+ Sucht Sicherheit im bürgerlichen Alltag, das „Feste“, die „Heimat“
+ Ist mit dem Bedingten, Unmittelbaren zufrieden, vergnügt sich im Alltag mit
+Alkohol und Büchern
+ Bewundert „Reinheit“, „Sorgfalt und Genauigkeit“, „Pflichterfüllung und Treue im
+Kleinen“ (S.22, Z.12f.) des Bürgerlichen
+(Steppen-) Wolf:
+ Leidet an Vorgaben der Gesellschaft
+ Leidet an Geistlosigkeit und Oberflächlichkeit der Gesellschaft und der Kultur
+ Kritisiert das Phillisterwissen
+ Strebt nach dem Unbedingten
+ Ist einsam, heimatlos und verlassen
+ Hat elitäres Verständnis
+ Verachtet banale Vergnügungssucht der modernen Menschen, kritisiert
+Konsumgesellschaft und moderne Technik
+ Unruhig, „wie ein Wolf im Käfig“ (vgl. S.28, Z.3f.)
+ „ICH-KRISE“: innere Zerrissenheit des Steppenwolfes (Seelenkrankheit, (vgl. S.79, Z.9
+ff. ) als Ursache der Lebensmüdigkeit Harry Hallers
+
+Wie steht Haller gegenüber der Gesellschaft zu Beginn der Handlung?
+
+ Harry Haller ist kein geselliger Mensch, er entzieht sich der Gesellschaft und lebt
+„sehr still für sich“ (S. 7, Z. 21). Mit der Kunst und der Gesellschaft, die zu seiner Zeit
+herrschen, kann er nicht viel anfangen, was ihn letztendlich zum Einzelgänger macht.
+Einen Alltag hat er keinen. Er isst, wenn er Hunger hat, schläft, wenn er müde ist, und
+geht aus dem Haus, wann immer er das Bedürfnis danach hat. Er bezeichnet sich
+selbst als einen heimatlosen Steppenwolf, einen einsamen Hasser der
+kleinbürgerlichen Welt, in welcher er sich jedoch immerzu in richtigen Bürgerhäusern
+niederlässt (vgl. S.36, Z.22ff.). Auch der Gesellschaft geht er aus dem Weg, da er sich
+von keinem verstanden fühlt, und nimmt auf Grund dessen nicht am
+gesellschaftlichen Leben teil; das bedeutet, dass er beispielsweise nicht tanzt. Hin
+und wieder sucht er Kneipen auf, in welchen er „Zuflucht“ (S.44, Z.12) findet. An
+solchen Orten kann Harry Haller seinen Kopf etwas frei bekommen, indem er andere
+Gäste beobachtet und diesen eventuelle Vereinsamung und Entgleisung (vgl. S.44,
+Z.26) unterstellt, damit er von seinen Qualen für eine gewisse Zeit absehen kann (vgl.
+S.44 f., Z.22 ff.).
+
+Wie wird Haller zum Gesellschaftskritiker/ depressiv
+ Von seiner Vergangenheit und Herkunft ist nur sehr wenig bekannt. Er stammt aus
+einem bürgerlichen Elternhaus (vgl. S.115, Z.25ff.) und in seiner Jugend ist er in ein
+Mädchen namens Rosa verliebt gewesen, das er zu schüchtern gewesen ist
+anzusprechen. Diesen Fehler bereut Harry Haller und es verfolgt und quält ihn noch
+immer. In seinem Leben wiederholt sieht er sich mit existenziellen Krisen
+konfrontiert: „Das eine Mal hatte [er seinen] bürgerlichen Ruf samt [seinem]
+Vermögen verloren“ (S.88, Z.29f.) und „das andere Mal war über Nacht [sein]
+Familienleben zusammengebrochen“ (S.88f, Z. 32f.), da ihn seine Frau, welche
+verrückt geworden ist, aus dem gemeinsamen Zuhause verwiesen hat. Das ist der
+Anfang der Vereinsamung Hallers (vgl. S.89). Nachdem er mit Mühe wieder ein
+„neues, asketisch-geistiges Leben und Ideal gebaut und wieder eine gewisse Stille
+und Höhe des Lebens erreicht“ (S.89, Z.9ff.) hat, geht auch dieses kaputt und er
+entfernt sich immer weiter vom „Normalen, Erlaubten [und] Gesunden“ (S.89, Z.31).
+Er hat weder einen praktischen Beruf noch erfüllte Liebschaften und so kommt er
+jeden Tag traurig nach Hause, wo er alleine seinen Gedanken und seinem Selbsthass
+ausgesetzt ist. Im Laufe der Jahre ist er nun „beruflos, familienlos, [und] heimatlos“
+(S.89, Z.32) geworden und die Einsamkeit ist in seinem Leben stets präsent.
+
+Welche Beziehungen führt Harry Haller?
+
+ Das Haus, in welches sich Harry Haller untermietet, gehört der Tante des fiktiven
+Herausgebers (vgl. S.7, Z.16 ff.), aber Haller hat mit beiden nicht viel zu tun. Er lebt
+„sehr still und für sich“ (S.7, Z.21) und außer ein paar Begegnungen im Treppenhaus,
+finden keine engeren Beziehungen statt. Eines Tages ist Harry Haller „ohne Abschied,
+aber nach Bezahlung […] verschwunden “ (S.28, Z.24ff.). Er hat all seine Sachen
+mitgenommen, hinterlässt jedoch sein „Manuskript, das er während seines hiesigen
+Aufenthaltes geschrieben hat“ (S.28, Z.29 f.).
+ Zu Beginn der Handlung führt er eine Fernbeziehung mit einer Frau namens Erika,
+welche er selbst als „böse Geliebte“ (S.181, Z.3) bezeichnet. Die beiden sehen sich
+nur selten, weil sie nicht in der gleichen Stadt wohnen.
+ Harry Haller hat eine Bekanntschaft zu einem Professor, welcher konservativ, steif
+und vaterlandstreu ist. Das einzige, was Haller und der Professor gemeinsam haben,
+ist das Interesse an orientalischen Mythologien. Der Professor lädt Haller nach einem
+zufälligen Treffen auf der Straße zu sich nach Hause ein (vgl. S.98 f.). Trotz einiger
+Vorbehalte geht er zu dem Abendessen, aber verabschiedet sich sehr früh, da es zu
+einem Konflikt mit dem Ehepaar kommt. (vgl. S.108)
+ Hermine ist diejenige, die ihn vor dem Selbstmord rettet. Sie befiehlt ihm Dinge,
+wobei sich Haller ohne weiteres als gehorsam erweist und sie so eine Art Mutterrolle
+ihm gegenüber einnimmt. Sie setzt sich zum Ziel Haller von seiner Gesellschaftskritik
+zu befreien und ihm beizubringen, wie man ein glückliches Leben führen kann.
+Hermine führt mit Harry Haller eine rein platonische Beziehung.
+ Maria ist Hermines Freundin, die Haller mit Leib und Seele Nachhilfe auf dem Gebiet
+der Sexualität bietet (vgl. S.176ff.). Er spürt sich durch Maria, auch wenn sie und er
+gegensätzlich sind: Sie ist ungebildet und arm, sehr weiblich, hübsch, sinnlich und
+kann tanzen. Sie hilft dem lebensmüden, in sich gekehrten und vergeistigten Haller
+Mut zu fassen, damit er neue Erfahrungen machen kann.
+ Haller führt gegen Ende der Handlung eine Freundschaft mit Pablo, auch wenn er zu
+Beginn ihrer Bekanntschaft ein wenig eifersüchtig auf ihn ist, da Pablo jung und schön
+ist. Außerdem versteht Pablo sich gut mit Hermine, was Harry zunächst nicht sehr
+behagt (vgl. S.159, Z.25ff). Pablo verschafft Haller unter dem Einfluss von Drogen
+Zugang zum so genannten „magischen Theater“. Ebenso wie Maria dient Pablo Haller
+als Begleiter seiner Persönlichkeitsentwicklung.
+ Haller bewundert neben Goethe und Lessing auch Mozart, welcher ihm im magischen
+Theater am Ende antrifft und ein Gespräch mit ihm führt (vgl. S.262ff).
+
+Die von Haller gemieteten Zimmer und deren Bedeutung
+ Harry Haller hat sich zu Beginn der dargestellten Handlung in einem bürgerlichen
+Haus eingemietet (vgl. S.7, Z.16), in welchem er dann in die „Mansarde oben im
+Dachstock und die kleine Schlafkammer daneben“ (S.7, Z.17 f.) einzieht. Die Häuser,
+in denen sich Haller seine Zimmer sucht, sind immer sehr ordentlich und sauber (vgl.
+
+S.22, Z.3). Darauf legt er großen Wert (vgl. S.22, Z.30 f.). Dennoch stellt sein Zimmer
+das Gegenteil zum Rest des Hauses dar. Darin werden „an den Wänden […] Bilder
+aufgehängt, Zeichnungen angeheftet, zuweilen aus Zeitschriften ausgeschnittene
+Bilder, die häufig wechselten. […] Dann die Photographie einer hübschen jungen Frau
+[…]. Eine Zeit lang hing ein siamesischer Buddha an der Wand“ (S.18, Z.20 ff.),
+welcher durch weitere, andere Bildnisse ersetzt wird (vgl. S.18, Z.30 ff.). Neben all
+den Bildern an der Wand befinden sich auch viele Bücher in diesem Zimmer.
+Allerdings füllen auch die Bücher „nicht nur den großen Bücherschrank, sondern
+lagen auch überall auf den Tischen, […] dem […] Sekretär, […] Diwan, auf den Stühlen,
+[und] auf dem Boden herum“ (S.18 f., Z.32 ff.). Ebenso kann man in dem chaotischen
+Zimmer Papierzeichnungen, Gesamtausgaben von Goethe, Jean Paul und weiteren
+Dichtern, Blumensträuße und Wein finden.
+ Harry Hallers Zimmer kann man auf ihn als Person übertragen.
+ Von außen betrachtet, erkennt man ein ordentliches und sauberes Haus, in
+welchem es so scheint, als bewohnten es nur bürgerliche Menschen. Sein
+chaotisches Zimmer hebt sich deutlich vom Rest des Hauses ab
+ Das Haus lässt sich nun auf Haller projizieren. Hallers Fassade macht einen
+sympathischen Eindruck (vgl. S.7, Z.12) und auf dem ersten Blick passt er in ein
+bürgerliches Haus. Erst genauerem Hinsehen offenbart sich Steppenwolf in ihm.
+
+Ist der Tractat nur Hallers Einbildung?
+ Der Tractat ist eine Analyse der Persönlichkeit Hallers. Sie steht in einem kleinen
+Büchlein, welches Harry Haller von einem Mann geschenkt wird (Vgl. S.52).
+Bereits im ersten Satz des Tractats fällt der Name „Harry, genannt der Steppenwolf“
+(S.54, Z.1f.), es ist also klar, dass Harry Haller damit gemeint ist.
+Als er später Hermine erzählt, „ein Unbekannter [gab ihm] ein kleines bedrucktes
+Büchlein, ein Ding wie ein Jahrmarktsheft, und darin stand [seine] ganze Geschichte
+und alles, was [ihn] angeht, genau beschrieben“ (S.147, Z.12ff.), antwortete sie
+anschließend, „es [sei] natürlich eine Einbildung“ (S.147, Z.30) von ihm.
+
+Ist Hermine Hallers Spiegelbild?
+ Hermine ist eine junge, hübsche Kurtisane und damit in vielen Bereichen das
+komplette Gegenteil von Haller. Beide sind Experten auf ihrem Gebiet; Haller im
+Geist und Hermine im Sinnlichen. Der Unterschied liegt darin, dass sie in ihrem Leben
+klarkommt, ganz anders als er. Hermine erscheint in Hallers Leben durch einen
+magischen Zufall (vgl. S.112, Z.8 ff.). Von Anfang an wirkt Hermine ein wenig irreal
+und erinnert Harry an dessen „damaligen Freund, der […] Hermann geheißen“ (S.139
+f., Z.32 f.) hat. Durch die weibliche Version Hermanns errät Haller auf wunderliche
+
+Weise, dass ihr Name Hermine sein muss. Hermine bezeichnet sich selbst als eine
+„Art Spiegel“ (S.140, Z.26) von Haller und hat immer eine Antwort für ihn parat. Mit
+Hermines Hilfe schafft es Haller, sich Stück für Stück in die Gesellschaft einzuleben,
+neue Bekanntschaften zu machen und weitere Persönlichkeiten von sich zu
+entdecken. Hermine und Haller sind beide nicht erfüllt von ihrem Leben, als sie sich
+treffen, und leiden beide an einer inneren Qual. Während bei Haller klar ist, dass er
+unter den ständigen, gegenseitigen Angriffen seiner Mensch- und Wolfseele leidet,
+ist der Grund der Qualen bei Hermine nicht klar. Im magischen Theater wird letztlich
+angedeutet, dass Hermine ein Teil von Haller ist, und als Haller sie tötet (vgl. S.268,
+Z.2), stirbt vermutlich dieser Teil in Haller mit. Gegen Ende des Romans wird wieder
+angedeutet, dass Hermine ein Spiegelbild und nur eine der „hunderttausend Figuren
+des Lebensspiels“ (S.277, Z.19)ist, welche die unterschiedlichen Persönlichkeiten
+Hallers darstellen.
+
+Was lernt Haller am Ende der Handlung?
+ Zu Beginn ist Haller der Steppenwolf, welcher, laut Tractat, nur „zwei Seelen (Wolf
+und Mensch)“ (S.79, Z.12) in sich trägt und diese die Gründe für seine Qualen sind.
+Gegen Ende erkennt er im magischen Theater, dass er nicht nur aus zwei Seelen
+besteht, sondern aus ganz vielen, welche im Roman als „hunderttausend Figuren des
+Lebensspiels“ (S.278, Z. 9) bezeichnet werden.
+ Seine Vorliebe zur Klassik hat nicht aufgehört, aber seine Abneigung gegen den Jazz
+hat er abgelegt.
+ Wegen seiner Einsamkeit hat er lange auf ein Sexualleben verzichtet, das er nun in
+vollen Zügen auskostet, und er holt das nach, was er in all den Jahren verpasst hat.
+ Er lernt zu tanzen (S.115, Z.27) und am Ende tanzt er gerne.
+ Am Ende der dargestellten Handlung weiß Haller um die Macht des Lachens und wird
+ein viel geselligerer Mensch, der nun auch fröhlich sein kann.
+ Zum Schluss ist Haller bereit, sich dem Leben zu stellen.</item>
     </string-array>
 
 </resources>
