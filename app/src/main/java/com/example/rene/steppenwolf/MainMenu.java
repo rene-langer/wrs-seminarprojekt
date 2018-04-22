@@ -74,16 +74,17 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
     public void onClick(View view) {
 
         //Toast.makeText(getApplicationContext(), String.format("%d", view.getId()), Toast.LENGTH_LONG).show();
-
+        Intent intent;
         switch(view.getId()) {
             case R.id.erzaehltechnik:
                 //open erzaehltechnik activity
-                Intent intent = new Intent(getApplicationContext(), erzaehltechnik.class);
+                 intent = new Intent(getApplicationContext(), erzaehltechnik.class);
                 startActivity(intent);
                 break;
             case R.id.struktur_aufbau:
                 //open activity
-
+                intent = new Intent(getApplicationContext(), struktur.class);
+                startActivity(intent);
                 break;
             case  R.id.symbole_motive:
 

@@ -15,13 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".erzaehltechnik">
-        </activity>
-        <activity android:name=".inhalt">
-        </activity>
-        <activity android:name=".figures"></activity>
-        <activity android:name=".aufsatztechnik">
-        </activity>
+        <activity android:name=".erzaehltechnik"/>
+        <activity android:name=".inhalt"/>
+        <activity android:name=".figures"/>
+        <activity android:name=".struktur"/>
+        <activity android:name=".aufsatztechnik"/>
     </application>
 
 </manifest>
