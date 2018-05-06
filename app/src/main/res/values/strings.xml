@@ -9,6 +9,7 @@
     <string-array name="inhalt_headlines">
         <item>Der Tractat</item>
         <item>Das magische Theater</item>
+        <item>Der Maskenball</item>
         <item>Psychoanalytischer Ansatz</item>
     </string-array>
 
@@ -121,6 +122,35 @@ Personen im Zusammenhang mit dem magischen Theater:
 Verschiedene Türen im magischen Theater:
 Im magischen Theater befindet sich ein Gang mit vielen verschiedenen Türen. Hinter einer Tür kämpft Haller mit seinem ehemaligen Schulfreund Gustav gegen die Übermacht der Maschinen. Einmal spielt er Schach mit selbstentworfenen Figuren. Hinter einer weiteren Tür trifft er alle seine missglückten Lieben wieder und kann seine früheren Fehler korrigieren. Dann ist Haller endlich bereit, die letzte Tür zu öffnen. Als er Hermines Zimmer betritt, entdeckt er dort Pablo in eindeutiger Stellung mit Hermine. Haller führt Hermines Auftrag aus, den sie ihm bei ihrem ersten Aufeinandertreffen erteilt hat, und tötet sie.
 </item>
+        <item>Geschehen während des Maskenballs:
+An einem Abend lernt Haller zufällig eine junge Frau kennen. Er erkennt, dass diese ähnliche
+Probleme wie er selber hat und freundet sich mit ihr an. Sie heißt Hermine und Haller trifft sich öfter
+mit ihr. Sie bringt ihm das Tanzen bei und führt ihn wieder in die Gesellschaft ein. Hermine bringt
+Haller den Foxtrott bei und besucht mit ihm Lokale, die er nie selber aufgesucht hätte. Sie lädt ihn
+auf einen Maskenball ein und Haller ist sehr aufgeregt. Auf dem Maskenball angekommen, kann
+Haller Hermine nicht auffinden und fühlt sich ohne sie einsam und verloren auf der Veranstaltung.
+Als er kurz davor ist, den Ball wieder zu verlassen, wird ihm ein Zettel zugesteckt, auf dem steht, dass
+Hermine in der „Hölle“ (S.211, Z.15) sei. Daraufhin eilt Haller auf der Suche nach Hermine in den
+Keller. Nach kurzer Zeit findet er sie als Jüngling verkleidet an der Bar. Er verliebt sich sofort in sie
+und die beiden tanzen die ganze Nacht gemeinsam.
+
+Bedeutung des Balls für Hallers Persönlichkeit
+Schon vor dem Maskenball taucht Haller in die Welt des Vergnügens ein und sucht Bars und
+Tanzveranstaltungen auf. Er achtet mehr auf sein Äußeres und zeigt Verständnis für Mode. Durch
+Hermine, Pablo und Maria erschaffen sich völlig „ neue Liebes- und Lebensmöglichkeiten“ (S.189,
+Z.13 f.)
+Haller erfährt beim Maskenball Geselligkeit, Integration und damit eine Sozialisation in die
+Gesellschaft. Er geht auf im Rausch des Tanzes und hat das Gefühl, dass der Tanz ihn noch stärker mit
+Hermine verbindet (S. 215, Z. 3ff.). Haller stellt fest, dass ihm etwas zuteil wird, das ihm fünfzig Jahre
+unbekannt gewesen ist: „das Erlebnis des Festes, der Rausch der Festgemeinschaft, das Geheimnis
+vom Untergang der Person in der Menge, von der Unio mystica der Freude“ (S. 216, Z. 5ff.). Er erlebt
+eine Auflösung der eigenen Grenzen seines bisherigen Ichs. Damit ist der Maskenball eine wichtige
+Vorbereitung für das sich anschließende magische Theater.
+
+Parallelen zwischen Haller und Hesse
+Auch Hesse nahm 1926 an einem Tanzunterricht teil, obwohl er gesundheitliche Probleme hatte.
+Dies macht er gemeinsam mit seinem Freund Josef Bernhard Lang, welcher Psychoanalytiker war. Sie
+besuchten ebenfalls viele Maskenbälle und Hesse entdeckte eine Leidenschaft für Drogen.</item>
         <item>Was ist Psychoanalyse?
 Das Wort Psychoanalyse kommt aus dem Griechischen und bedeutet übersetzt Untersuchung der See-le. Es handelt sich hierbei um eine Theorie und Behandlungsform, die von dem Psychologen Sigmund Freud 1890 ins Leben gerufen wurde. Die Psychoanalyse entstand aus einer Weiterentwicklung und Kombination der Hypnose und der Redetherapie. Freud durfte dem französischen Arzt Jean-Martin Charcot bei der Hypnose zusehen. Ihm wurde erklärt, bei einer Hypnose seien die Vernunft und das Bewusstsein des Menschen ausgeschaltet und das Unterbewusstsein, also tiefer liegende Emotionen, werde angesprochen. Die Redetherapie ist das typische Bild einer Sitzung bei einem Psychologen. Der Patient sitzt auf einem Stuhl und redet sich seinen Kummer und seine Sorgen von der Seele. Wenn die seelischen Probleme des Menschen hierbei entdeckt werden, können sie gelöst werden, und im Zuge dessen verschwinden alle anderen Beschwerden, so Freuds Kollege Josef Breuer. Zu den beiden An-sätzen seiner Kollegen fügte Freud noch einen eigenen Aspekt hinzu, die freien Assoziationen. Laut Freud kann sich ein Patient verdrängte Erlebnisse und Erinnerungen wieder in Erinnerung rufen, wenn er einfach über das redet, was ihm gerade einfällt.
 Wichtig zu wissen ist, dass viele Modelle von Freud von ihm oder anderen Wissenschaftlern überarbei-tet, verbessert oder verworfen wurden. Da zur Zeit der Entstehung des Romans „Der Steppenwolf“ Hesse nur Freuds und Jungs Theorie vorliegen hatte und aktiv anwenden konnte, wird nur geprüft, in-wiefern sich die Theorien dieser beiden Wissenschaftler auf den Roman anwenden lassen.
@@ -193,6 +223,7 @@ Zuerst sieht Harry Haller sein Inneres nur zweigeteilt (vgl.  S. 40, Z. 32ff.), 
         <item>Konstellation</item>
         <item>Maria</item>
         <item>Harry Haller</item>
+        <item>Entwicklung Hallers</item>
         <item>Pablo</item>
     </string-array>
 
@@ -212,31 +243,30 @@ Zuerst sieht Harry Haller sein Inneres nur zweigeteilt (vgl.  S. 40, Z. 32ff.), 
             - Hilft ihm aus seiner Ich-Krise herauszukommen, ist eine Leidensgenossin für ihn (vgl.
             S.140, Z.24ff.)\n
             - Gegenseitige Beziehung\n\n
-            Maria:
-             Freundin von Hermine
-             Prostituierte wie Hermine
-             Haller lebt mit ihr seine Sexualität aus (vgl. S.178, Z.30f.)
-             Sie bringt ihm bei, mit den normalen Problemen des Lebens zurechtzukommen (vgl.
-            S.177, Z.22 ff.)
-             Sie ist eine Begleitfigur für Hallers Persönlichkeitserweiterung (vgl. S.179, Z.21)
-             Sie bereitet ihn auf das magische Theater vor
-             Gegenseitige Beziehung
-            Pablo:
-             Haller lernt ihn über Hermine kennen
-             Zunächst hat Haller eine Abneigung ihm gegenüber, da er Jazz-Musiker ist und Haller
-            anfangs eine Abneigung gegen Jazzmusik verspürt
-             Pablo zeigt ihm das magische Theater, wo Haller das Lachen lernen soll (Schule des
-            Humors, vgl. S.227, Z.13)
-             Unter Einfluss von Drogen erfährt Haller eine Bewusstseinserweiterung (vgl. S.227
-            Z.9ff.)
-             Gegenseitige Beziehung mit wechselhaftem Verhältnis, ohne Konstanz, da er ihm
-            gegenüber immer wieder eine gewisse Abneigung verspürt (vgl. S.170, Z.22ff.)
-            Der Professor und die Frau des Professors:
-             Der Professor ist ein langjähriger Freund Hallers (vgl. S.98)
-             Haller trifft ihn eines Tages in der Stadt, woraufhin der Professor ihn zu sich einlädt
-            (vgl. S.100 Z.10ff.)
-
-             Der Professor vertritt den Patriotismus sowie das Bürgertum, was Haller abstößt, da
+            Maria:\n
+            - Freundin von Hermine\n
+            - Prostituierte wie Hermine\n
+            - Haller lebt mit ihr seine Sexualität aus (vgl. S.178, Z.30f.)\n
+            - Sie bringt ihm bei, mit den normalen Problemen des Lebens zurechtzukommen (vgl.
+            S.177, Z.22 ff.)\n
+            - Sie ist eine Begleitfigur für Hallers Persönlichkeitserweiterung (vgl. S.179, Z.21)\n
+            - Sie bereitet ihn auf das magische Theater vor\n
+            - Gegenseitige Beziehung\n\n
+            Pablo:\n
+            - Haller lernt ihn über Hermine kennen\n
+            - Zunächst hat Haller eine Abneigung ihm gegenüber, da er Jazz-Musiker ist und Haller
+            anfangs eine Abneigung gegen Jazzmusik verspürt\n
+            - Pablo zeigt ihm das magische Theater, wo Haller das Lachen lernen soll (Schule des
+            Humors, vgl. S.227, Z.13)\n
+            - Unter Einfluss von Drogen erfährt Haller eine Bewusstseinserweiterung (vgl. S.227
+            Z.9ff.)\n
+            - Gegenseitige Beziehung mit wechselhaftem Verhältnis, ohne Konstanz, da er ihm
+            gegenüber immer wieder eine gewisse Abneigung verspürt (vgl. S.170, Z.22ff.)\n\n
+            Der Professor und die Frau des Professors:\
+            - Der Professor ist ein langjähriger Freund Hallers (vgl. S.98)\n
+            - Haller trifft ihn eines Tages in der Stadt, woraufhin der Professor ihn zu sich einlädt
+            (vgl. S.100 Z.10ff.)\n
+            - Der Professor vertritt den Patriotismus sowie das Bürgertum, was Haller abstößt, da
             er Pazifist ist und einer patriotischen Gesinnung gegenüber kritisch ist. (vgl. S.108,
             Z.26)
              Beim Professor lernt Haller dessen Frau kennen (vgl. S.104, Z.29)
@@ -632,6 +662,94 @@ vollen Zügen auskostet, und er holt das nach, was er in all den Jahren verpasst
  Am Ende der dargestellten Handlung weiß Haller um die Macht des Lachens und wird
 ein viel geselligerer Mensch, der nun auch fröhlich sein kann.
  Zum Schluss ist Haller bereit, sich dem Leben zu stellen.</item>
+        <item>1. Wie wird Haller zu Beginn der Handlung dargestellt?
+- in gewisser Weise krank (vgl. S.9, Z.14)
+- „geistes- oder gemüts- oder charakterkrank“ (S.16, Z.20 ff.)
+- hinterlässt den Eindruck aus einer fremden Welt zu kommen (vgl. S.9, Z.21f.)
+- gedankenvolles, durchgearbeitetes und vergeistigtes Gesicht (vgl. S.10, Z.14 ff.)
+- „ungewöhnlich begabt“ (S.13, Z.26)
+- „bewegtes, ungemein zartes und sensibles Seelenleben“ (S.13, Z.29f.)
+- höflich und freundlich (vgl. S.9, Z.18)/ (vgl. S.24f., Z.30 ff.)
+- nicht selbstbewusst/ voller Selbstverachtung (vgl. S.10, Z.3 ff.)
+- trotz seines chaotischen Zimmers (vgl. S.18f., Z.19 ff), begehrt er die bürgerliche
+Ordnung (vgl. S.22, Z.3 ff.), da er gerne im Kontrast lebt (vgl. S.37 ,Z.4f.)
+- selbstlos und bestrebt gegenüber der Bürgerlichkeit (vgl. S.24, Z.25)
+- verträgt keine Zufriedenheit (vgl. S.35, Z.7f.)
+- böse und negative Gedanken beherrschen ihn von Zeit zu Zeit (vgl. S.35, Z.20 ff.)
+- nächtliches Umherwandeln (vgl. S.38, Z.23 ff.)
+- wartet auf den Tod (vgl. S.109, Z.22 ff.)
+2. Was verändert sich bei Haller und durch wen oder was geschieht diese
+Veränderung?
+1. Tractat:
+- das Leben des Steppenwolfes wird erläutert (vgl. S.54 ff.)
+- Hallers Problem mit der Bipolarität wird aufgezeigt (vgl. S.75, Z.11 ff.)/ (vgl. S.79,
+Z.9 ff.)
+= von dem Tractat lässt sich Haller beeinflussen
+2. Hermine:
+- Hermine ist der Hauptgrund für die Veränderung Hallers, da sie eine Art Spiegel für
+ihn darstellt (vgl. S.140, Z.21 ff.)
+- Durch Hermine lernt Haller wie man tanzt, lacht, sich in der Gesellschaft bewegt und
+dass das Leben mit Humor zu sehen ist. (vgl. S.156 ff., Z.25 ff.)
+- Hermine hat die Macht, Haller Befehle zu geben, welche dieser befolgt (vgl. S.113,
+Z.31f.)
+2. Maria:
+- Maria vertreibt Hallers traurige Gefühle und Gedanken (vgl. S.177, Z.11 ff.)
+- Haller holt mit ihr das Verpasste in der Vergangenheit nach (vgl. S.181, Z.8f.)
+- Maria erweitert Hallers sexuelle Erfahrungen und verhilft ihm zu einem neuen
+Verständnis gegenüber der Welt (vgl. S.178, Z.27 ff.)
+
+- durch Maria beginnt Harry, Geborgenheit (vgl. S.177, Z.20f.) und Zufriedenheit (vgl.
+S.183f., Z.24 ff.) zu verspüren
+3. Pablo:
+- ist eine Begleitfigur für die Persönlichkeitsentwicklung Hallers (vgl. S.169, Z.5 ff.)
+- bereitet ihn auf das magische Theater vor, in welchem sich Haller am Ende selbst
+finden soll
+- im magische Theater ist er immer wieder bei ihm und hilft Haller bei seiner
+Persönlichkeitsfindung (vgl. S.278, Z.8f.)
+4. Pablos Drogen:
+- dienen der Bewusstseinsveränderung
+- sind Mittel zum Betäuben von Schmerzen, zum Schlafen, Lustig- und
+Verliebtmachen (vgl. S.169f., Z.32 ff.)
+- diese „geheime[...] Mittel[...]“ (S.186, Z.7) dienen dem Genuss (vgl. S.168, Z.8)
+- wirken entfesselnd (vgl. S.186, Z.23f.)
+5. Der Maskenball:
+- letzte Station auf seinem Weg nach Innen
+- auf dem Maskenball merkt Haller, nach Anlaufschwierigkeiten (vgl. S.210, Z.2 ff.),
+dass ihm das Leben in der Gesellschaft gelingen kann (vgl. S.216f., Z.31 ff.)
+- dient zur Bewusstwerdung und Akzeptanz aller Seiten der Persönlichkeit (vgl. S.214,
+Z.16)/ (vgl. S.216, Z.6f.)
+- Vielleicht wird dieser Prozess Hallers dadurch unterstützt, dass die einzelnen
+Menschen aufgrund ihrer Masken ein Stück weit entpersonalisiert sind und er sich
+unbeschwerter in ihrer Mitte bewegen kann
+3. Was passiert im magischen Theater mit Hallers Entwicklung?
+- hier zerfallen die bisherigen Identitäten und werden aufgelöst
+- es hilft Haller seine bisherige Lebenseinstellung zu überdenken und die Teile, die ihn
+bei seiner Persönlichkeitsentwicklung stören, zu besiegen. (vgl. S.225f., Z.32 ff.)
+- im magischen Theater wird seine Persönlichkeit aufgebaut (vgl. S.245, Z.11)
+- er erkennt, dass sein Inneres nicht nur aus zwei Seelen besteht, sondern aus „einer
+Menge von Seelen“ (S.245, Z.31)
+- im magischen Theater reflektiert er seine Persönlichkeit und Vergangenheit und
+dadurch, dass seine Realität gespiegelt wird, kann er sie aus einem anderen
+Blickwinkel wahrnehmen. (vgl. S.226, Z.7 ff.)/ (vgl. S.228, Z.26 ff.)
+- seine Realität verwandelt sich zum Gegenteil, zu einem „hübsches Bilderkabinett“
+(S. 225, Z.30), einer „hübschen Bilderwelt“ (S.278, Z.3)
+- Haller erkennt, dass er sich mit Humor statt durch den Tod von seinen Lasten
+befreien kann (vgl. S.228, Z.2 ff.)
+- jede einzelne Tür, durch die er gehen kann, steht für einen weiteren Aspekt der
+Persönlichkeit Hallers
+
+- in der Tür „Alle Mädchen sind dein“ (S.252, Z.6) beispielsweise, macht er sich
+seiner Schüchternheit bewusst und überwindet diese
+4. Wie ist Haller am Ende der Handlung?
+- die neuen gesellschaftlichen Erfahrungen, die Einnahme von Drogen und die
+sexuelle Enthemmung sind die entscheidenden geheimen Erlebnisse, die Hallers
+Entwicklung bestimmt haben
+- er hat das Tanzen und Lachen erlernt (vgl. S.266, Z.17 ff.)
+- am Ende wird seinen Dualismus besiegt, da er seine falsche Sichtweise, die ihn bis
+zu diesem Zeitpunkt geplagt hat, einsieht (vgl. S.178, Z.17 ff.). Er „ahnt[..] erschüttert
+den Sinn“ (S.278, Z.20) des Lebens
+- Haller sieht den Tod nicht mehr als Ausweg, sondern weiß „alle hunderttausend
+Figuren des Lebensspiels in [s]einer Tasche“ (S. 278, Z. 25 ff.)</item>
         <item>
 Erstes Auftreten im Buch :
 Pablo ist leidenschaftlicher Saxofonist in einer Jazzkapelle und Regisseur des magischen Theaters, da er Haller unter Einfluss von Drogen durch das magische Theater führt. Haller lernt ihn durch Hermine kennen. Er beschreibt ihn als  Schönling und auf ihn wirkt es, als würde Pablo „ nicht eben viel denken“ (S.160, Z.6). Haller hält ihn für einen „hübsche[n]“ (S.160, Z.7), aber einfachen Mann.
