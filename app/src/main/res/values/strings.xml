@@ -7,12 +7,14 @@
 
 
     <string-array name="inhalt_headlines">
+        <item>Zusammenfassung</item>
         <item>Der Tractat</item>
-        <item>Das magische Theater</item>
         <item>Der Maskenball</item>
+        <item>Das magische Theater</item>
     </string-array>
 
     <string-array name="inhalt_texts">
+        <item>ZUSAMMENFASSUNG</item>
         <item>  Was ist der Tractat?\n\n
 
                 - Der Begriff „Tractat“ ist auf das lateinische Wort tractatus zurückzuführen, was als „Abhandlung“
@@ -98,29 +100,6 @@
                 Person\n
                 - Tractat dient als Vorbereitung auf das magische Theater
         </item>
-        <item>Was ist das magische Theater?
-Pablo, Hermine und Haller konsumieren nach dem Maskenball Drogen und nehmen das magische Theater unter dem Einfluss von Drogen wahr Es wird deutlich, dass das magische Theater kein realer Ort ist, sondern mutmaßlich nur in diesem rauschhaften Zustand „betretbar“. Pablo fungiert als Regisseur des magischen Theaters; das heißt, dass er Haller den Zugang dazu ermöglicht, indem er diesem Drogen anbietet, um ihm dessen innere Vielfalt zu zeigen. Das magische Theater ist nicht für jeden zugänglich, der Eintritt ist nur für Verrückte zulässig (vgl. S.42, Z. 26 ff.).
-
-
-Bezug Hallers zum magischen Theater:
-Im magischen Theater zeigt Pablo Haller seine vielfältige Persönlichkeit. Das magische Theater ist der Ort, an dem Haller seine Persönlichkeit sowie seine Vergangenheit widergespiegelt werden, was auch durch das Symbol der überall präsenten Spiegel verdeutlicht wird. Jeder Spiegel ist ein Teil der Persönlichkeit von Haller und spiegelt ihn wider. Genau aus diesem Grund wird das magische Theater auch Spiegelkabinett genannt (vgl. S. 224, Z. 14ff.).Haller kann dieses Theater nur mit seinen Sinnen wahrnehmen (an einer Mauer/ im Rausch vgl. S. 42, Z.7ff.) und kann es nur betreten, sobald er seine Ernsthaftigkeit verliert. Das Theater soll Haller helfen, sich selbst und seinen ihm wesenseigenen Ernst zu überwinden, um ihn somit zu heilen. Er erlebt die Verwandlung voller Neugier und durchlebt nochmals seine  Begegnungen mit Frauen. Außerdem hört er das Lachen von Mozart als einer der Unsterblichen (vgl. S. 271, Z. 13ff.).
-
-
-Erste Konfrontation Hallers mit dem magischen Theater:
-Als Haller das erste Mal auf den Begriff des magischen Theaters trifft, ist er auf dem Weg in ein Wirtshaus. Auf einer für ihn bekannten Mauer erscheinen plötzlich „bewegliche bunte Buchstaben und [verschwinden] alsbald wieder“ (S. 42, Z. 9 f.). Doch zunächst wird Haller der Eintritt verwehrt, er bekommt allerdings von einem fremden Mann unerwarteterweise ein kleines Büchlein überreicht. Dieses sogenannte Tractat handelt von der Persönlichkeitsstruktur eines Mannes namens Harry Haller.
-
-Personen im Zusammenhang mit dem magischen Theater:
--	Haller selbst
--	Hermine
--	Pablo
--	Die Unsterblichen (Goethe, Mozart)
--	Missglückte Lieben (Rosa Kreisler, Irmgard, Anna, Ida, Lore und viele mehr)
--	Hallers Jugendfreund Gustav
-
-
-Verschiedene Türen im magischen Theater:
-Im magischen Theater befindet sich ein Gang mit vielen verschiedenen Türen. Hinter einer Tür kämpft Haller mit seinem ehemaligen Schulfreund Gustav gegen die Übermacht der Maschinen. Einmal spielt er Schach mit selbstentworfenen Figuren. Hinter einer weiteren Tür trifft er alle seine missglückten Lieben wieder und kann seine früheren Fehler korrigieren. Dann ist Haller endlich bereit, die letzte Tür zu öffnen. Als er Hermines Zimmer betritt, entdeckt er dort Pablo in eindeutiger Stellung mit Hermine. Haller führt Hermines Auftrag aus, den sie ihm bei ihrem ersten Aufeinandertreffen erteilt hat, und tötet sie.
-</item>
         <item>Geschehen während des Maskenballs:
 An einem Abend lernt Haller zufällig eine junge Frau kennen. Er erkennt, dass diese ähnliche
 Probleme wie er selber hat und freundet sich mit ihr an. Sie heißt Hermine und Haller trifft sich öfter
@@ -150,6 +129,29 @@ Parallelen zwischen Haller und Hesse
 Auch Hesse nahm 1926 an einem Tanzunterricht teil, obwohl er gesundheitliche Probleme hatte.
 Dies macht er gemeinsam mit seinem Freund Josef Bernhard Lang, welcher Psychoanalytiker war. Sie
 besuchten ebenfalls viele Maskenbälle und Hesse entdeckte eine Leidenschaft für Drogen.</item>
+        <item>Was ist das magische Theater?
+Pablo, Hermine und Haller konsumieren nach dem Maskenball Drogen und nehmen das magische Theater unter dem Einfluss von Drogen wahr Es wird deutlich, dass das magische Theater kein realer Ort ist, sondern mutmaßlich nur in diesem rauschhaften Zustand „betretbar“. Pablo fungiert als Regisseur des magischen Theaters; das heißt, dass er Haller den Zugang dazu ermöglicht, indem er diesem Drogen anbietet, um ihm dessen innere Vielfalt zu zeigen. Das magische Theater ist nicht für jeden zugänglich, der Eintritt ist nur für Verrückte zulässig (vgl. S.42, Z. 26 ff.).
+
+
+Bezug Hallers zum magischen Theater:
+Im magischen Theater zeigt Pablo Haller seine vielfältige Persönlichkeit. Das magische Theater ist der Ort, an dem Haller seine Persönlichkeit sowie seine Vergangenheit widergespiegelt werden, was auch durch das Symbol der überall präsenten Spiegel verdeutlicht wird. Jeder Spiegel ist ein Teil der Persönlichkeit von Haller und spiegelt ihn wider. Genau aus diesem Grund wird das magische Theater auch Spiegelkabinett genannt (vgl. S. 224, Z. 14ff.).Haller kann dieses Theater nur mit seinen Sinnen wahrnehmen (an einer Mauer/ im Rausch vgl. S. 42, Z.7ff.) und kann es nur betreten, sobald er seine Ernsthaftigkeit verliert. Das Theater soll Haller helfen, sich selbst und seinen ihm wesenseigenen Ernst zu überwinden, um ihn somit zu heilen. Er erlebt die Verwandlung voller Neugier und durchlebt nochmals seine  Begegnungen mit Frauen. Außerdem hört er das Lachen von Mozart als einer der Unsterblichen (vgl. S. 271, Z. 13ff.).
+
+
+Erste Konfrontation Hallers mit dem magischen Theater:
+Als Haller das erste Mal auf den Begriff des magischen Theaters trifft, ist er auf dem Weg in ein Wirtshaus. Auf einer für ihn bekannten Mauer erscheinen plötzlich „bewegliche bunte Buchstaben und [verschwinden] alsbald wieder“ (S. 42, Z. 9 f.). Doch zunächst wird Haller der Eintritt verwehrt, er bekommt allerdings von einem fremden Mann unerwarteterweise ein kleines Büchlein überreicht. Dieses sogenannte Tractat handelt von der Persönlichkeitsstruktur eines Mannes namens Harry Haller.
+
+Personen im Zusammenhang mit dem magischen Theater:
+-	Haller selbst
+-	Hermine
+-	Pablo
+-	Die Unsterblichen (Goethe, Mozart)
+-	Missglückte Lieben (Rosa Kreisler, Irmgard, Anna, Ida, Lore und viele mehr)
+-	Hallers Jugendfreund Gustav
+
+
+Verschiedene Türen im magischen Theater:
+Im magischen Theater befindet sich ein Gang mit vielen verschiedenen Türen. Hinter einer Tür kämpft Haller mit seinem ehemaligen Schulfreund Gustav gegen die Übermacht der Maschinen. Einmal spielt er Schach mit selbstentworfenen Figuren. Hinter einer weiteren Tür trifft er alle seine missglückten Lieben wieder und kann seine früheren Fehler korrigieren. Dann ist Haller endlich bereit, die letzte Tür zu öffnen. Als er Hermines Zimmer betritt, entdeckt er dort Pablo in eindeutiger Stellung mit Hermine. Haller führt Hermines Auftrag aus, den sie ihm bei ihrem ersten Aufeinandertreffen erteilt hat, und tötet sie.
+</item>
     </string-array>
 
     <string-array name="struktur_headlines">
@@ -162,6 +164,7 @@ besuchten ebenfalls viele Maskenbälle und Hesse entdeckte eine Leidenschaft fü
 
     <string-array name="author_headlines">
         <item>Psychoanalytischer Ansatz</item>
+        <item>Autobiografischer Ansatz</item>
     </string-array>
 
     <string-array name="author_texts">
@@ -223,6 +226,63 @@ Fazit - Von Sigmund Freud zu C. G. Jung: Entwicklung von Hallers Selbstbild im H
 Es scheint so, als würde Haller mit einem auf Freud basierenden Selbstbild beginnen und sich dann weiter in Richtung Jung entwickeln.
 Zuerst sieht Harry Haller sein Inneres nur zweigeteilt (vgl.  S. 40, Z. 32ff.), ähnlich Freuds Strukturmo-dell der Psyche. Der Wolf verkörpert die Triebe und der Mensch die Wertvorstellungen. Nach und nach erkennt Haller, dass sein Inneres viel facettenreicher ist, und mehr als nur den Wolf und den Menschen beinhaltet (vgl. S. 229, Z. 3ff.). Je weiter die Handlung des Romans fortschreitet, umso mehr wendet sich der Inhalt den Theorien Jungs zu. Mit dem Kennenlernen von Hermine tritt Hallers Anima in sein Leben. Im magischen Theater steht Haller seiner vielfältigen Persönlichkeit gegenüber.
 </item>
+        <item>Wie ein roter Faden ziehen sich die autobiografischen Parallelen durch den Roman. Einige sind
+        offensichtlich, wie zum Beispiel die Ähnlichkeit der Namen des Protagonisten und des Autors. Harry
+        Haller und Hermann Hesse haben nicht nur dieselben Initialen, sondern auch die Anzahl der Silben ist
+        identisch. Die Ähnlichkeiten hören hier nicht auf, sondern reichen vom äußerlichen Erscheinungsbild
+        über die Beziehung zu Literatur, Musik und Frauen bis hin zu ähnlichen Gewohnheiten und
+        Anschauungen. Um einige Parallelen zu erkennen, muss man sich schon etwas ausführlicher mit
+        Hesses Leben auseinandergesetzt haben.
+        Hesse stammt aus einer bürgerlichen pietistischen Familie. Seine Erziehung ist sehr fromm und er
+        verbringt unter anderem einige Zeit in der Klosterschule von Maulbronn. Dies spiegelt sich im Roman
+        wider: Der Neffe von Hallers Vermieterin vermutet, dass dieser „von liebevollen, aber strengen und
+        sehr frommen Eltern und Lehrern in jenem Sinne erzogen wurde, der das ‚Brechen des Willens‘ zur
+        Grundlage der Erziehung macht“ (S. 17 Z. 13 ff.). Später bestätigt Haller selbst, dass er sich häufig aus
+        Nostalgie in sauberen, bürgerlichen Häusern ein Zimmer mietet (vgl. S. 36 Z. 21 ff.). Auch die
+        Mansardenwohnung, in der der „Steppenwolf“ lebt, hat konkrete Wirklichkeitsbezüge. In einem Brief
+        beschreibt Hesse die Basler Wohnung, in der er die erste Hälfte des Romans verfasst hat. In dieser
+        Beschreibung taucht auch die Araukarie auf, die im Treppenhaus vor der Wohnung steht, die sich
+        unter Hallers Zimmer befindet (vgl. S. 37 Z. 23 ff.). Ebenso hat Hesse, genau wie Haller, in seiner
+        Basler Zeit eine Stammkneipe, in der er gerne ein paar Gläser Wein trinkt.
+        Handlungsort des „Steppenwolf“ ist eine Stadt in der Schweiz. Hesse selbst wird 1924 Schweizer
+        Staatsbürger und verbringt Teile der Zeit, in der er den Steppenwolf verfasst, in Basel. In der Zeit des
+        Ersten Weltkriegs wird Hesse zu einem eingefleischten Pazifisten. Verursacht wird diese Entwicklung
+        maßgeblich durch seine Tätigkeit bei der Deutschen Kriegsgefangenenfürsorge in Bern und die
+        Freundschaft mit dem Kriegsgegner Gusto Gräser. Hesse kritisiert in einigen Artikeln die
+        kriegstreiberischen Machenschaften der Nationalsozialisten, was dazu führt, dass keine deutsche
+        Zeitung Artikel von Hesse drucken will. Nachdem die NSDAP an die Macht gekommen ist, kann Hesse
+        auch keine Bücher mehr in Deutschland veröffentlichen. Vieles davon findet sich in Hesses Roman
+        wieder: Auch Haller wird öffentlich für seine pazifistische Einstellung kritisiert. Das wird vor allem
+        beim Abendessen im Hause des Professors deutlich, als dieser Haller von einem „Publizisten
+        [namens] Haller, der ein übler Kerl und vaterlandsloser Geselle sein müsse“ (S. 105 Z.15 f.), erzählt.
+        Für den Professor ist diese Einstellung so abwegig, dass er sich nicht vorstellen kann, mit diesem
+        Publizisten befreundet zu sein.
+        Eine weitere Gemeinsamkeit ist, dass beide eine Scheidung hinter sich haben. 1918, nach 14 Jahren
+        Ehe, beschließen Hesse und seine Frau Maria Bernoulli, sich zu trennen. Kurze Zeit später wird
+        Bernoulli wegen Depressionen in eine Psychiatrie eingeliefert. Auch Haller muss Hermine gestehen,
+        er „habe keine Frau mehr“ (S. 117 Z. 13). Hermann Hesse lernt nur ein Jahr nach seiner ersten
+        Scheidung Ruth Wenger kennen. Das Paar beschließt 1924 zu heiraten. Im selben Jahr beginnt Hesse
+        am „Steppenwolf“ zu arbeiten. Doch auch in dieser Beziehung wird Hesse nicht glücklich. Bereits drei
+        Jahre später, im Veröffentlichungsjahr des „Steppenwolfes“, lässt sich das Ehepaar scheiden.
+        Nicht nur Hesses erste Frau hat unter psychischen Problemen gelitten, auch Hesse selbst hat einige
+        schwere Lebenskrisen. Im Frühjahr 1916 begibt er sich erstmals aufgrund eines
+        Nervenzusammenbruchs in die psychoanalytische Behandlung bei J. B. Lang, der für C. G. Jung
+        arbeitet. Er absolviert über 200 Sitzungen mit Lang und lernt im Zuge dessen auch Jung persönlich
+        kennen. 1921 wendet er sich wegen einer Schreibblockade und Depressionen direkt an Jung. Im
+
+        Dezember 1925 sucht er, völlig aufgelöst und verzweifelt, wieder die Hilfe von Lang. Bis März 1926
+        treffen sie sich regelmäßig, da Hesse mit konkreten Selbstmordgedanken kämpft. Diese Zeit, in der
+        große Teile des Steppenwolfes entstanden, ist für die Fülle an autobiografischen und
+        psychoanalytischen Elemente verantwortlich. Im Gegensatz zu Hesse besucht Haller keinen
+        Psychiater. Der Tractat und vor allem das magische Theater können jedoch als stellvertretend dafür
+        betrachtet werden. Auch in einigen Unterhaltungen mit Hermine, Maria und Pablo ist der Einfluss
+        von Hesses Erfahrungen mit der Psychoanalyse zu erkennen.
+        Wie Haller scheint auch Hesse in der Zeit vor seinem 50. Geburtstag von neuer Energie und
+        Lebensfreude ergriffen worden zu sein. Auch er nimmt Tanzstunden und lernt unter anderem den
+        Foxtrott, worauf er einige Maskenbälle in der Fastnachtszeit 1926 in Basel besucht. Dort tanzt er bis
+        in die frühen Morgenstunden. Nach dem Besuch dieser Maskenbälle stellt sich für Hesse die Frage,
+        wie er sein bisheriges Leben bestreiten konnte, ohne überhaupt zu wissen, was ein Maskenball sei.
+        Der Besuch der Bälle ist für ihn ein ähnlich prägendes Erlebnis wie auch für Haller.</item>
     </string-array>
 
     <string-array name="figures_headlines">
@@ -231,6 +291,7 @@ Zuerst sieht Harry Haller sein Inneres nur zweigeteilt (vgl.  S. 40, Z. 32ff.), 
         <item>Entwicklung Hallers</item>
         <item>Maria</item>
         <item>Pablo</item>
+        <item>Hermine</item>
     </string-array>
 
     <string-array name="figures_texts">
@@ -785,6 +846,92 @@ Wie verändert sich Haller durch Pablo?
 Wie soll es in der App angezeigt werden?
 Man soll zuerst auf die fettgedruckte Schrift klicken und dann zu den einzelnen Unterpunkten weitergeleitet werden.
         </item>
+        <item>
+        Erstes Auftreten im Buch: Seite 112; Haller geht in das Wirtshaus Zum schwarzen
+        Adler und sieht Hermine auf einer Wandbank sitzen. Sie wird als „ein hübsches,
+        bleiches Mädchen“ beschrieben (Knabenhafte Frisur mit Locke am Kopf und Kamelie
+        im Haar/hinterm Ohr)
+        Letztes Auftreten im Buch: Seite 278; Im magischen Theater nimmt Pablo
+        Hermine, die in seinen Fingern schrumpft, bis sie so groß wie eine Spielfigur ist, und
+        steckt sie dann in seine Westentasche.
+        Aussehen: - Helle graue Augen
+        - Glatte, kühle Stirn
+        - Junges Mädchen
+        - Schlank
+        - Nicht groß
+        - Manchmal wirkt es, als habe sie ein Knabengesicht
+
+        Erstes Kennenlernen von Haller und Hermine im Wirtshaus Zum schwarzen
+        Adler (Seite 112):
+        - Sie spricht mit ihm, weil sie gesehen hat, dass er ihren Befehlen gehorchen wird
+        - Hermine duzt ihn von Anfang an, er siezt sie
+        - Haller verrät seinen Vornamen, sie bezeichnet ihn als Bub mit einem Bubennamen
+        und meint er brauche jemand, der nach ihm schaut
+        - Verrät den eigenen Namen noch nicht
+        Warum verstehen sich Haller und Hermine so gut?
+        - Sie ist wie er
+        - Sie war so zu ihm, wie er es braucht
+        - Hermine durchschaut ihn
+        - „Ich brauche dich, wie du mich brauchst“ (Seite 143) aber sie braucht ihn erst später
+        Was verändert sie in Hallers Leben?
+        - Bringt ihn mit Lebensfreude in Kontakt
+        - Hält ihn vom Selbstmord ab
+        - Vermittelt den Kontakt mit Pablo
+        - Verschafft ihm eine Geliebte (Maria)
+        - Bringt ihm das Tanzen bei
+        Funktion/Rolle von Hermine für Haller:
+        - Wie eine Mama (streng, mahnender Blick, Erziehungsprogramm: hört zu,
+        hinterfragt, gibt Haller andere Sichtweisen auf ihn selbst, klärt ihn über sich selbst
+        (also über Haller selbst) auf, sucht nach Lösungen)
+        - Zuhörerin (sehr geduldig beim Zuhören)
+        - Schwester
+        - Erteilt Befehle (Haller will ihre Befehle befolgen, er genießt es Befehle zu
+        bekommen, Befehle wie Grammophon kaufen, tanzen lernen, den Maskenball
+        besuchen, letzter Befehl wird sein sie zu töten)
+        - Aufmunterung/ Ablenkung (als er ihr mit Selbstmordgedanken begegnet)
+        - Leidensgenossin (sie leidet am Leben, sie sagt sie sei so allein wie Haller und kann
+        das Leben und die Menschen nicht ernst nehmen, das empfindet Haller auch)
+
+        - Freundin (Kamerad)
+        - Seelenverwandte
+        - Dominiert im „neuen Leben“ (Hallers Leben ist auf sie ausgerichtet)
+        - Ist für seinen Wandel verantwortlich
+        - Lehrt ihm die Freude am Leben (durch Tanzen, Maria, Drogen bei Pablo)
+        - Eine Art Spiegel („in mir innen ist etwas, das dir Antwort gibt und dich versteht“
+        (Seite 140), symbolisches Spiegelbild von Haller, er findet Antwort und
+        Verwandtschaft in Hermine)
+        - Vorbereitung auf das Magische Theater
+        Wie findet Haller Hermines Namen heraus?
+        Haller sieht sie an und sie erinnert ihn an seinen Jugendfreund Hermann, also ist
+        seine logische Schlussfolgerung, dass sie Hermine heißen muss.
+        Berufliche Laufbahn/Schicksal von Hermine:
+        - Sie sagt, sie sei bestimmt nach hohem Vorbild zu leben
+        - Sie befand sich in einem materiellen und moralischem Elend, denn die einzigen
+        Möglichkeiten, die sie hatte waren für zu wenig Geld an der Schreibmaschine für
+        einen Geldverdiener zu arbeiten oder einen solchen wegen seines Geldes zu
+        heiraten, dritte Möglichkeit: Prostituierte
+        - Bezeichnet sich selbst als Kurtisane von gutem Geschmack
+        - Sie ist also eine (Gelegenheits-)Prostituierte
+        - „Ich lebe von den Männern“ (S.133) aber von Haller will sie nicht leben
+        - Sie bevorzugt weder Männer noch Frauen, beide sind okay
+        Liebe zu Haller?
+        - Sie sagt, sie will ihn in sich verliebt machen, aber sie liebt ihn nicht
+        - Maskenball: Hermine hat sich als Junge verkleidet und Haller erkennt zuerst seinen
+        alten Schulfreund Hermann, bevor er merkt, dass es Hermine ist, sie tanzen jeweils
+        mit anderen Frauen, dieses Spiel verführt Haller und er beschreibt es damit, dass sie
+        füreinander entzündet sind, Hermine taucht später als Mädchen wieder auf und sie
+        tanzt mit Haller, dabei kommt es zu einem Kuss (Haller hat Gefühle für sie ab dem
+        Zeitpunkt, an dem er sie als Schulfreund Hermann erkennt)
+        Magisches Theater: (man könnte sagen, Hermine dient als Vorbereitung darauf)
+        - Trinken etwas Exotisches zusammen und rauchen zusammen (mit Pablo und
+        Haller)
+        - Pablo bittet sie hinter einen Vorhang und sagt, sie habe die rechte Seite des
+        Theaters
+        - Hinter der letzten Tür, die Haller öffnet liegen Hermine und Pablo nackt auf dem
+        Boden und es ist offensichtlich für Haller, dass sie Geschlechtsverkehr hatten
+        - Haller ersticht sie aus Eifersucht
+        - Sie schrumpft in Pablos Fingern auf die Größe einer Spielfigur
+        </item>
     </string-array>
 
     <string-array name="subfigures_texts">
@@ -793,5 +940,6 @@ Man soll zuerst auf die fettgedruckte Schrift klicken und dann zu den einzelnen 
     <string-array name="subfigures_headlines">
         <item>Blub</item>
     </string-array>
+
 
 </resources>

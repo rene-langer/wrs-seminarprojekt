@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hermine_quiz_fragen">
+        <item>Wo lernen sich Hermine und Harry Haller kennen?</item>
+        <item>Welche der folgenden Rollen/Funktionen, die Hermine für Haller hat
+                trifft nicht zu?</item>
+        <item>Welche Aussage trifft nicht auf Hermines Aussehen zu?</item>
+        <item>Was ist der Beruf von Hermine?</item>
+        <item>An wen erinnert Hermine Haller?</item>
+        <item>Was bringt Hermine Haller bei?</item>
+        <item>Als wen oder was verkleidet sich Hermine für den Maskenball?</item>
+        <item>Was geschieht mit Hermine nachdem Haller sie erstochen hat?</item>
+    </string-array>
+
+    <string-array name="antwort_1">
+        <item>Im magischen Theater</item>
+        <item>In der Wirtschaft Zum Grauen Falken</item>
+        <item>Auf einem Maskenball</item>
+        <item>Im Wirtshaus Zum Schwarzen Adler</item>
+    </string-array>
+
+    <string-array name="antwort_2">
+        <item>Spiegel</item>
+        <item>Leidensgenossin</item>
+        <item>Tanzlehrerin</item>
+        <item>Geliebte</item>
+    </string-array>
+
+    <string-array name="antwort_3">
+        <item>Manchmal hat sie ein Knabengesicht</item>
+        <item>blaue Augen</item>
+        <item>schlank</item>
+        <item>nicht sehr groß</item>
+    </string-array>
+
+    <string-array name="antwort_4">
+        <item>Tanzlehrerin</item>
+        <item>Musikerin</item>
+        <item>(Gelegenheits-)Prostituierte</item>
+        <item>Sie arbeitet bei einer Partnervermittlung</item>
+    </string-array>
+
+    <string-array name="antwort_5">
+        <item>An seine ehemalige Frau</item>
+        <item>An seinen Jugendfreund Hermann</item>
+        <item>An seinen guten Kumpel Harald</item>
+        <item>An Herrmann Hesse</item>
+    </string-array>
+
+    <string-array name="antwort_6">
+        <item>Das Tanzen</item>
+        <item>Das Malen</item>
+        <item>Saxophon spielen</item>
+        <item>Das Dichten</item>
+    </string-array>
+
+    <string-array name="antwort_7">
+        <item>Als Hallers Jugendfreund Hermann</item>
+        <item>Als Goethe</item>
+        <item>Sie verkleidet sich nicht</item>
+        <item>Als Harry Haller</item>
+    </string-array>
+
+    <string-array name="antwort_8">
+        <item>Sie lächelt und sagt Haller sie liebe ihn</item>
+        <item>Pablo steckt sie in seine Tasche</item>
+        <item>Mozart verwandelt sie in einen Stein</item>
+        <item>Sie zerbricht in tausend Teile wie ein Spiegel</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

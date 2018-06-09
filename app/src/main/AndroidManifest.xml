@@ -24,6 +24,8 @@
         <activity android:name=".struktur" />
         <activity android:name=".aufsatztechnik" />
         <activity android:name=".pre_figures" />
+        <activity android:name=".sources" />
+        <activity android:name=".quiz" />
     </application>
 
 </manifest>

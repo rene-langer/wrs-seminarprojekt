@@ -97,7 +97,8 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
 
                 break;
             case R.id.quiz:
-
+                intent = new Intent(getApplicationContext(), quiz.class);
+                startActivity(intent);
                 break;
             case R.id.inhalt:
                 Intent inhalt = new Intent(getApplicationContext(), inhalt.class);
