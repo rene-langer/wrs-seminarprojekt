@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 
 //
-public class figures extends AppCompatActivity {
+public class subfigures extends AppCompatActivity {
     android.support.v7.widget.Toolbar toolbar;
 
     ExpandableListAdapter adapter;
@@ -42,8 +42,8 @@ public class figures extends AppCompatActivity {
     }
 
     private void prepare() {
-        headlines = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.figures_headlines)));
-        ArrayList<String> texts = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.figures_texts)));
+        headlines = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.subfigures_headlines)));
+        ArrayList<String> texts = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.subfigures_texts)));
 
         childs = new HashMap<>();
 
@@ -59,7 +59,7 @@ public class figures extends AppCompatActivity {
 
     private void setToolbar() {
         toolbar = findViewById(R.id.toolbar);
-        toolbar.setTitle("Hauptfiguren");
+        toolbar.setTitle("Nebenfiguren");
 
         setSupportActionBar(toolbar);
         toolbar.setNavigationIcon(R.drawable.ic_arrow_back_black_18dp);

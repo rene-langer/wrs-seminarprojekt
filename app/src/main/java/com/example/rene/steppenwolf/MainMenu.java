@@ -6,7 +6,10 @@ import android.os.Bundle;
 import android.support.v7.widget.*;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
@@ -23,6 +26,10 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
 
         setToolbar();
         initButtons();
+
+        TextView tv = findViewById(R.id.quellen);
+        tv.setOnClickListener(this);
+
 
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,13 +61,13 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
         temp = (Button) findViewById(R.id.symbole_motive);
         temp.setOnClickListener(this);
 
-        temp = (Button) findViewById(R.id.sprache_stil);
+        temp = (Button) findViewById(R.id.quiz);
         temp.setOnClickListener(this);
 
         temp = (Button) findViewById(R.id.inhalt);
         temp.setOnClickListener(this);
 
-        temp = (Button) findViewById(R.id.biographie);
+        temp = (Button) findViewById(R.id.autor);
         temp.setOnClickListener(this);
 
         temp = (Button) findViewById(R.id.aufsatztechnik);
@@ -78,7 +85,7 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
         switch(view.getId()) {
             case R.id.erzaehltechnik:
                 //open erzaehltechnik activity
-                 intent = new Intent(getApplicationContext(), erzaehltechnik.class);
+                intent = new Intent(getApplicationContext(), erzaehltechnik.class);
                 startActivity(intent);
                 break;
             case R.id.struktur_aufbau:
@@ -89,24 +96,27 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
             case  R.id.symbole_motive:
 
                 break;
-            case R.id.sprache_stil:
+            case R.id.quiz:
 
                 break;
             case R.id.inhalt:
                 Intent inhalt = new Intent(getApplicationContext(), inhalt.class);
                 startActivity(inhalt);
                 break;
-            case R.id.biographie:
-
+            case R.id.autor:
+                Intent autor = new Intent(getApplicationContext(), autor.class);
+                startActivity(autor);
                 break;
             case R.id.aufsatztechnik:
                 Intent aufsatz = new Intent(getApplicationContext(), aufsatztechnik.class);
                 startActivity(aufsatz);
                 break;
             case R.id.figuren:
-                Intent figs = new Intent(getApplicationContext(), figures.class);
-                startActivity(figs);
+                Intent preFigs = new Intent(getApplicationContext(), pre_figures.class);
+                startActivity(preFigs);
 
+                break;
+            case R.id.quellen:
                 break;
         }
     }

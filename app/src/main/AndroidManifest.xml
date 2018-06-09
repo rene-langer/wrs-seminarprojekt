@@ -12,14 +12,18 @@
         <activity android:name=".MainMenu">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".erzaehltechnik"/>
-        <activity android:name=".inhalt"/>
-        <activity android:name=".figures"/>
-        <activity android:name=".struktur"/>
-        <activity android:name=".aufsatztechnik"/>
+        <activity android:name=".erzaehltechnik" />
+        <activity android:name=".inhalt" />
+        <activity android:name=".autor" />
+        <activity android:name=".figures" />
+        <activity android:name=".subfigures" />
+        <activity android:name=".struktur" />
+        <activity android:name=".aufsatztechnik" />
+        <activity android:name=".pre_figures" />
     </application>
 
 </manifest>
