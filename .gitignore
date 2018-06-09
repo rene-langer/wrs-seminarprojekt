@@ -1,8 +1,6 @@
 
 # Created by https://www.gitignore.io/api/android,androidstudio
 
-build.gradle
-
 ### Android ###
 # Built application files
 *.apk
