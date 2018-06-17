@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="allgemein_quiz_fragen">
+        <item>Dieses Buch enthält die uns gebliebenen Aufzeichnungen jenes Mannes, welchen wir mit dem Ausdruck, den der selbst gebrauchte, den 'Steppenwolf" nannten.</item>
+        <item>"Warum hat er wohl gesagt, daß es hier so gut rieche?", fragte ich. Da sagte meine Tante, welche manchmal recht gute Ahnungen hat: "Das weiß ich ganz genau [...]."</item>
+        <item>Wunderlich, was der Mensch alles schmecken kann! Wohl zehn Minuten las ich in einer Zeitung, ließ durch das Auge den Geist des verantwortungslosen Menschen in mich hinein, der die Worte anderer im Munde breit kaut und sie eingespeichelt, aber unverdaut wieder von sich gibt. </item>
+        <item>Ich sagte ja und nein, lachte ein wenig, ließ sie reden. Sie gefiel mir sehr, und ich war darüber verwundert, denn solche jungen Mädchen hatte ich bisher gemieden und eher mit Mißtrauen betrachtet."</item>
+        <item>Wir gingen zusammen - es war unser erster gemeinsamer Gang in der Stadt - in ein Musikaliengeschäft und sahen Grammophone an.</item>
+        <item>"Ich will dir heute etwas sagen, etwas, was ich schon lange weiß, und auch du weißt es schon, aber vielleicht hast du es dir selber noch nicht gesagt."</item>
+    </string-array>
+
+    <string-array name="allg_antwort_1">
+        <item>Erzählbericht</item>
+        <item>Innerer Monolog</item>
+        <item>Szenisches Erzählen</item>
+        <item>Erlebte Rede</item>
+    </string-array>
+
+
+    <string-array name="allg_antwort_2">
+        <item>Zeitdehnendes Erzählen</item>
+        <item>Zeitdeckendes Erzählen</item>
+        <item>Zeitraffendes Erzählen</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="allg_antwort_3">
+        <item>Personale Erzählung</item>
+        <item>Ich-Erzählung</item>
+        <item>Auktoriale Erzählung</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="allg_antwort_4">
+        <item>Figurenrede</item>
+        <item>Indirekte Rede</item>
+        <item>Szenisches Erzählen</item>
+        <item>Erlebte Rede</item>
+    </string-array>
+
+    <string-array name="allg_correct_answers">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>

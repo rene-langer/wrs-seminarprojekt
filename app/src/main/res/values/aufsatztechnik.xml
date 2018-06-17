@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aufsatztechnik_headlines">
+        <item>Aufgabenstellung Abiturprüfung</item>
         <item>Wichtiges für Aufsätze Allgemein</item>
         <item>Klare Struktur</item>
         <item>Einleitung</item>
@@ -10,6 +11,35 @@
     </string-array>
 
     <string-array name="aufsatztechnik_texts">
+        <item>Die Aufgabenstellung ist zweiteilig. Zunächst soll eine Textstelle interpretiert werden. Im zweiten Teil ist das
+            vorliegende Werk unter einem vorgegeben Aspekt mit einem der beiden anderen Werke zu vergleichen.
+            Im Folgenden wird zunächst dargelegt, welche Anforderungen gestellt werden. Im Anschluss finden sich eine
+            mögliche Abituraufgabe und die Herangehensweise zur 2. Teilaufgabe.
+
+            Allgemeine Angaben zur Gliederung des Aufsatzes
+            A. Einleitung (erweiterter Einleitungssatz): Beim Schreiben der Einleitung sollte darauf geachtet
+            werden, dass die wesentlichen Angaben vorhanden sind und außerdem das Interesse des Lesers
+            geweckt wird (z. B. mit einer passenden biographischen Einbettung)
+            B. Hauptteil
+            1. Interpretation der Textstelle:
+             Zusammenfassung der vorangegangenen Handlung, die zum Verständnis
+            der Textstelle notwendig ist, ggf. sollte man auch die grundsätzliche
+            Struktur des Werkes verdeutlichen Zusammenfassung der Textstelle
+             Interpretation der Textstelle: Hier muss berücksichtigt werden, in welchem
+            inhaltlichen Zusammenhang die Textstelle mit Ereignissen steht, die im
+            Werk vor dieser Stelle erwähnt werden.
+             Sprache und Erzähltechnik müssen dabei funktional gedeutet werden
+            (welche Funktion / Wirkung haben Sprache / Erzähltechnik)
+
+            2. Vergleich der Lektüren:
+            Für die zweite Teilaufgabe wir ein so genannter Außentext vorgegeben, d. h. ein
+            weiterer Text vorgelegt, der nicht einer der drei Pflichtlektüren entnommen ist. Als
+            Außentexte kommen kürzeste und kurze nichtliterarische und literarische Texte in
+            Frage. Sie führen in einen Leitaspekt des sich anschließenden Vergleichs ein,
+            eröffnen ein Reflexionsangebot und ermöglichen somit eine fokussierte erörternde
+            Auseinandersetzung mit den Werken. Der im Rahmen der zweiten Teilaufgabe zu
+            leistende Werkvergleich wird ab 2019 auf zwei der drei Pflichtlektüren beschränkt
+            sein. Der Schwerpunkt der Aufgabe liegt weiterhin auf der zweiten Teilaufgabe.</item>
         <item>  - auf Rechtschreibung achten, d. h. Fehler mit Groß- und Kleinschreibung,
                 Kommasetzung, ungenaues Zitieren, (Fremd-) Wörter im falschen
                 Zusammenhang, falschen oder ungenauen Fachbegriffen oder Begriffe aus dem

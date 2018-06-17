@@ -21,11 +21,14 @@
         <activity android:name=".autor" />
         <activity android:name=".figures" />
         <activity android:name=".subfigures" />
+        <activity android:name=".symbole_motive" />
         <activity android:name=".struktur" />
         <activity android:name=".aufsatztechnik" />
         <activity android:name=".pre_figures" />
         <activity android:name=".sources" />
-        <activity android:name=".quiz" />
+        <activity android:name=".quiz_hermine" />
+        <activity android:name=".quiz_allgemein" />
+        <activity android:name=".pre_quiz" />
     </application>
 
 </manifest>

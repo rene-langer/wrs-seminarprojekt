@@ -13,7 +13,7 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Locale;
 
-public class quiz extends AppCompatActivity implements View.OnClickListener {
+public class quiz_hermine extends AppCompatActivity implements View.OnClickListener {
 
     android.support.v7.widget.Toolbar toolbar;
 

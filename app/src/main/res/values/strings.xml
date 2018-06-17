@@ -941,5 +941,36 @@ Man soll zuerst auf die fettgedruckte Schrift klicken und dann zu den einzelnen 
         <item>Blub</item>
     </string-array>
 
+    <string-array name="symbole_motive_headlines">
+        <item>Die magischen 5</item>
+    </string-array>
 
+    <string-array name="symbole_motive_texts">
+        <item>
+            Einfluss des Übernatürlichen:
+Im Steppenwolf überschneidet sich die Realität immer wieder mit der phantastischen, magischen, übernatürlichen Welt
+Situationen, in denen die reale und magische Welt aufeinanderprallen:
+•	Haller entdeckt die Leuchtschrift „Magisches Theater- Eintritt nicht für jedermann“ (S.42, Z.28)
+•	Kauf des Tractats (vgl. S.52 , Z.10ff.)
+•	Wiedererkennen des Plakats, Besuch des Wirtshauses „Zum Schwarzen Adler“ und Kennenlernen von Hermine (vgl. S.97, Z.8ff.)
+•	Veränderung der einseitig rationalen Lebensweise Hallers durch Erfahrungen wie Tanz (vgl. S.139, Z.18), Drogenkonsum (vgl. S.226, Z.16 ff.) und Erotik (vgl. S.203, Z.3ff.) (Hermine, Pablo, Maria)  die magische Welt wird nur von den bestimmten Charakteren betreten
+•	Auflösung von Hallers Persönlichkeit beim Maskenball (vgl. S.215, Z.3ff., S. 216, Z. 8: „Unio mystica der Freude“) und beim Blick in den Riesenspiegel (vgl. S.229, Z.7)
+•	Zum Schluss Gespräch mit Mozart, der sich in Pablo verwandelt und die tote Hermine „zum Spielfigürchen“ verzwergt (vgl. S. 278, Z.10)
+
+Die Goldene Spur:
+•	gilt als Leitmotiv
+•	führt in das Reich der Unsterblichen (Mozart und Goethe)
+•	ist den normalen Sterblichen verborgen
+•	Haller sieht die goldene Spur („Nur für Verrückte“): Der Schriftzug leitet ihn zur goldenen Spur,  gibt ihm also das Gefühl der Ganzheit und Heimat, tritt jedoch nur punktuell auf (vgl. S.39, Z.21ff.), da er zu einem auserwählten Kreis gehört, der Übernatürliches erleben darf.
+•	Ein Portal erscheint in alter grauer Steinmauer (vgl. S.41 Z.17ff)
+	Eingang zum magischen Theater
+	Haller kann sie nicht öffnen; dennoch hat ihn „ein Gruß der anderen Welt berührt,“ […] „ein Schimmer der goldenen Spur war wieder sichtbar gewesen“ (S.44, Z.1ff.)
+•	Das magische Theater ist die Lösung für Harrys inneren Konflikt
+	Der Tractat vermittelt die Theorie des sog. Steppenwolf-Menschen, welchem nur mit Humor aus seiner Identitätskrise herausgeholfen werden kann.
+	Im magischen Theater ist die Chance auf Heilung.
+	Haller muss jedoch zunächst erst lernen zu lachen.
+•	Die goldene Spur ist somit Wegweiser in das magische Theater.
+
+        </item>
+    </string-array>
 </resources>

@@ -3,13 +3,9 @@ package com.example.rene.steppenwolf;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.*;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
@@ -94,10 +90,11 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
                 startActivity(intent);
                 break;
             case  R.id.symbole_motive:
-
+                intent = new Intent(getApplicationContext(), symbole_motive.class);
+                startActivity(intent);
                 break;
             case R.id.quiz:
-                intent = new Intent(getApplicationContext(), quiz.class);
+                intent = new Intent(getApplicationContext(), pre_quiz.class);
                 startActivity(intent);
                 break;
             case R.id.inhalt:
